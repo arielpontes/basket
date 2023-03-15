@@ -41,7 +41,9 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
+    "rest_framework.authtoken",
     "basket",
+    "django_extensions",
 ]
 
 MIDDLEWARE = [
@@ -80,15 +82,12 @@ WSGI_APPLICATION = "project.wsgi.application"
 
 DATABASES = {
     "default": {
-        "ENGINE": "djongo",
-        "NAME": "basket",
-        "CLIENT": {
-            "host": "mongodb://mongo:27017",
-            "username": "root",
-            "password": "example",
-            "authSource": "admin",
-            "authMechanism": "SCRAM-SHA-1",
-        },
+        "ENGINE": "django.db.backends.postgresql",
+        "NAME": os.environ.get("POSTGRES_DB"),
+        "USER": os.environ.get("POSTGRES_USER"),
+        "PASSWORD": os.environ.get("POSTGRES_PASSWORD"),
+        "HOST": "db",
+        "PORT": 5432,
     }
 }
 

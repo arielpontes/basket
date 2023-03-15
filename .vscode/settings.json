@@ -1,6 +1,11 @@
 {
     "python.formatting.provider": "black",
     "[python]": {
-        "editor.formatOnPaste": false
-    }
+        "editor.formatOnPaste": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+    },
+    "isort.args":["--profile", "black"],
 }
