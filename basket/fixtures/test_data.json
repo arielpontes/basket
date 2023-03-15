@@ -1,0 +1,7636 @@
+[
+  {
+    "model": "basket.league",
+    "pk": 1,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.026Z",
+      "updated_at": "2023-03-15T14:25:25.026Z",
+      "name": "NBL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/1.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 2,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.254Z",
+      "updated_at": "2023-03-15T14:25:25.254Z",
+      "name": "LNB",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/2.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 3,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.038Z",
+      "updated_at": "2023-03-15T14:25:25.038Z",
+      "name": "NBL W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/3.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 6,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.107Z",
+      "updated_at": "2023-03-15T14:25:25.107Z",
+      "name": "ABL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/6.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 8,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.259Z",
+      "updated_at": "2023-03-15T14:25:25.259Z",
+      "name": "Pro B",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/8.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 10,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.249Z",
+      "updated_at": "2023-03-15T14:25:25.249Z",
+      "name": "LFB W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/10.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 12,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.983Z",
+      "updated_at": "2023-03-15T14:25:24.983Z",
+      "name": "NBA",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/12.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 18,
+    "fields": {
+      "created_at": "2023-03-15T14:15:04.303Z",
+      "updated_at": "2023-03-15T14:15:04.303Z",
+      "name": "Liga A",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/18.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 20,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.990Z",
+      "updated_at": "2023-03-15T14:25:24.990Z",
+      "name": "NBA - G League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/20.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 22,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.323Z",
+      "updated_at": "2023-03-15T14:25:25.323Z",
+      "name": "Torneo Super 20",
+      "type": "cup",
+      "season": "2018",
+      "logo": "https://media.api-sports.io/basketball/leagues/22.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 24,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.246Z",
+      "updated_at": "2023-03-15T14:25:25.246Z",
+      "name": "EuroMillions Basketball League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/24.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 25,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.301Z",
+      "updated_at": "2023-03-15T14:25:25.301Z",
+      "name": "Top Division Women",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/25.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 28,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.957Z",
+      "updated_at": "2023-03-15T14:25:24.957Z",
+      "name": "NBL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/28.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 31,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.093Z",
+      "updated_at": "2023-03-15T14:25:25.093Z",
+      "name": "CBA",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/31.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 37,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.189Z",
+      "updated_at": "2023-03-15T14:25:25.189Z",
+      "name": "Korisliiga",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/37.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 41,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.228Z",
+      "updated_at": "2023-03-15T14:25:25.228Z",
+      "name": "DBBL Women",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/41.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 42,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.269Z",
+      "updated_at": "2023-03-15T14:25:25.269Z",
+      "name": "Pro A",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/42.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 51,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.102Z",
+      "updated_at": "2023-03-15T14:25:25.102Z",
+      "name": "Super League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/51.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 53,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.291Z",
+      "updated_at": "2023-03-15T14:25:25.291Z",
+      "name": "Serie A1 W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/53.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 56,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.081Z",
+      "updated_at": "2023-03-15T14:25:25.081Z",
+      "name": "B League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/56.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 57,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.115Z",
+      "updated_at": "2023-03-15T14:25:25.115Z",
+      "name": "National League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/57.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 61,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.169Z",
+      "updated_at": "2023-03-15T14:25:25.169Z",
+      "name": "NKL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/61.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 62,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.197Z",
+      "updated_at": "2023-03-15T14:25:25.197Z",
+      "name": "Moteru Lyga W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/62.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 63,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.001Z",
+      "updated_at": "2023-03-15T14:25:25.001Z",
+      "name": "LNBP",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/63.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 65,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.271Z",
+      "updated_at": "2023-03-15T14:25:25.271Z",
+      "name": "DBL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/65.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 67,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.200Z",
+      "updated_at": "2023-03-15T14:25:25.200Z",
+      "name": "Superleague",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/67.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 71,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.207Z",
+      "updated_at": "2023-03-15T14:25:25.207Z",
+      "name": "1 Liga",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/71.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 73,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.211Z",
+      "updated_at": "2023-03-15T14:25:25.211Z",
+      "name": "Energa Basket Liga W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/73.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 74,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.318Z",
+      "updated_at": "2023-03-15T14:25:25.318Z",
+      "name": "LPB",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/74.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 78,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.147Z",
+      "updated_at": "2023-03-15T14:25:25.147Z",
+      "name": "Divizia A",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/78.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 84,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.125Z",
+      "updated_at": "2023-03-15T14:25:25.125Z",
+      "name": "Premier League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/84.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 88,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.217Z",
+      "updated_at": "2023-03-15T14:25:25.217Z",
+      "name": "Extraliga W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/88.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 89,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.274Z",
+      "updated_at": "2023-03-15T14:25:25.274Z",
+      "name": "Liga Nova KBM",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/89.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 90,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.243Z",
+      "updated_at": "2023-03-15T14:25:25.243Z",
+      "name": "1 SKL W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/90.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 91,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.083Z",
+      "updated_at": "2023-03-15T14:25:25.083Z",
+      "name": "KBL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/91.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 92,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.074Z",
+      "updated_at": "2023-03-15T14:25:25.074Z",
+      "name": "WKBL W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/92.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 94,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.236Z",
+      "updated_at": "2023-03-15T14:25:25.236Z",
+      "name": "Liga Femenina W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/94.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 95,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.276Z",
+      "updated_at": "2023-03-15T14:25:25.276Z",
+      "name": "LEB - Oro",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/95.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 102,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.088Z",
+      "updated_at": "2023-03-15T14:25:25.088Z",
+      "name": "TBL",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/102.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 103,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.137Z",
+      "updated_at": "2023-03-15T14:25:25.137Z",
+      "name": "TB2L",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/103.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 106,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.226Z",
+      "updated_at": "2023-03-15T14:25:25.226Z",
+      "name": "FBU Superleague",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/106.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 107,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.154Z",
+      "updated_at": "2023-03-15T14:25:25.154Z",
+      "name": "Superleague W",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/107.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 110,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.970Z",
+      "updated_at": "2023-03-15T14:25:24.970Z",
+      "name": "Liga Uruguaya",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/110.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 111,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.159Z",
+      "updated_at": "2023-03-15T14:25:25.159Z",
+      "name": "Premier League",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/111.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 115,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.204Z",
+      "updated_at": "2023-03-15T14:25:25.204Z",
+      "name": "Division A",
+      "type": "League",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/115.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 120,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.220Z",
+      "updated_at": "2023-03-15T14:25:25.220Z",
+      "name": "Euroleague",
+      "type": "cup",
+      "season": "2018",
+      "logo": "https://media-1.api-sports.io/basketball/leagues/120.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 159,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.140Z",
+      "updated_at": "2023-03-15T14:25:25.140Z",
+      "name": "Russian Cup",
+      "type": "cup",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/159.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 173,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.296Z",
+      "updated_at": "2023-03-15T14:25:25.296Z",
+      "name": "BBL Trophy",
+      "type": "cup",
+      "season": "2018-2019",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/173.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 198,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.281Z",
+      "updated_at": "2023-03-15T14:25:25.281Z",
+      "name": "ABA League",
+      "type": "cup",
+      "season": "2018",
+      "logo": "https://media-2.api-sports.io/basketball/leagues/198.png"
+    }
+  },
+  {
+    "model": "basket.league",
+    "pk": 364,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.165Z",
+      "updated_at": "2023-03-15T14:25:25.165Z",
+      "name": "WBBL Women",
+      "type": "cup",
+      "season": "2018-2019",
+      "logo": "https://media.api-sports.io/basketball/leagues/364.png"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 1,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.030Z",
+      "updated_at": "2023-03-15T14:25:25.030Z",
+      "name": "Australia",
+      "code": "AU",
+      "flag": "https://media-2.api-sports.io/flags/au.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 2,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.108Z",
+      "updated_at": "2023-03-15T14:25:25.108Z",
+      "name": "Asia",
+      "code": "",
+      "flag": ""
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 4,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.250Z",
+      "updated_at": "2023-03-15T14:25:25.250Z",
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media-1.api-sports.io/flags/fr.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 5,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.984Z",
+      "updated_at": "2023-03-15T14:25:24.984Z",
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media-1.api-sports.io/flags/us.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 6,
+    "fields": {
+      "created_at": "2023-03-15T14:15:04.310Z",
+      "updated_at": "2023-03-15T14:15:04.310Z",
+      "name": "Argentina",
+      "code": "AR",
+      "flag": "https://media-2.api-sports.io/flags/ar.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 7,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.247Z",
+      "updated_at": "2023-03-15T14:25:25.247Z",
+      "name": "Belgium",
+      "code": "BE",
+      "flag": "https://media.api-sports.io/flags/be.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 9,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.959Z",
+      "updated_at": "2023-03-15T14:25:24.959Z",
+      "name": "Canada",
+      "code": "CA",
+      "flag": "https://media-2.api-sports.io/flags/ca.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 11,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.093Z",
+      "updated_at": "2023-03-15T14:25:25.093Z",
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 15,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.190Z",
+      "updated_at": "2023-03-15T14:25:25.190Z",
+      "name": "Finland",
+      "code": "FI",
+      "flag": "https://media.api-sports.io/flags/fi.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 17,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.229Z",
+      "updated_at": "2023-03-15T14:25:25.229Z",
+      "name": "Germany",
+      "code": "DE",
+      "flag": "https://media-2.api-sports.io/flags/de.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 22,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.105Z",
+      "updated_at": "2023-03-15T14:25:25.105Z",
+      "name": "Israel",
+      "code": "IL",
+      "flag": "https://media.api-sports.io/flags/il.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 23,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.291Z",
+      "updated_at": "2023-03-15T14:25:25.291Z",
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 24,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.081Z",
+      "updated_at": "2023-03-15T14:25:25.081Z",
+      "name": "Japan",
+      "code": "JP",
+      "flag": "https://media.api-sports.io/flags/jp.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 25,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.115Z",
+      "updated_at": "2023-03-15T14:25:25.115Z",
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "flag": "https://media-1.api-sports.io/flags/kz.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 27,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.169Z",
+      "updated_at": "2023-03-15T14:25:25.169Z",
+      "name": "Lithuania",
+      "code": "LT",
+      "flag": "https://media-1.api-sports.io/flags/lt.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 28,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.002Z",
+      "updated_at": "2023-03-15T14:25:25.002Z",
+      "name": "Mexico",
+      "code": "MX",
+      "flag": "https://media-2.api-sports.io/flags/mx.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 30,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.272Z",
+      "updated_at": "2023-03-15T14:25:25.272Z",
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media-2.api-sports.io/flags/nl.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 32,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.200Z",
+      "updated_at": "2023-03-15T14:25:25.200Z",
+      "name": "Macedonia",
+      "code": "MK",
+      "flag": "https://media.api-sports.io/flags/mk.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 34,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.208Z",
+      "updated_at": "2023-03-15T14:25:25.208Z",
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media-1.api-sports.io/flags/pl.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 35,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.319Z",
+      "updated_at": "2023-03-15T14:25:25.319Z",
+      "name": "Portugal",
+      "code": "PT",
+      "flag": "https://media-2.api-sports.io/flags/pt.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 38,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.147Z",
+      "updated_at": "2023-03-15T14:25:25.147Z",
+      "name": "Romania",
+      "code": "RO",
+      "flag": "https://media-1.api-sports.io/flags/ro.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 39,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.140Z",
+      "updated_at": "2023-03-15T14:25:25.140Z",
+      "name": "Russia",
+      "code": "RU",
+      "flag": "https://media-1.api-sports.io/flags/ru.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 40,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.126Z",
+      "updated_at": "2023-03-15T14:25:25.126Z",
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "flag": "https://media.api-sports.io/flags/sa.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 42,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.218Z",
+      "updated_at": "2023-03-15T14:25:25.218Z",
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 43,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.243Z",
+      "updated_at": "2023-03-15T14:25:25.243Z",
+      "name": "Slovenia",
+      "code": "SI",
+      "flag": "https://media-1.api-sports.io/flags/si.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 44,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.075Z",
+      "updated_at": "2023-03-15T14:25:25.075Z",
+      "name": "South Korea",
+      "code": "KR",
+      "flag": "https://media-2.api-sports.io/flags/kr.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 45,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.237Z",
+      "updated_at": "2023-03-15T14:25:25.237Z",
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 48,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.088Z",
+      "updated_at": "2023-03-15T14:25:25.088Z",
+      "name": "Turkey",
+      "code": "TR",
+      "flag": "https://media-1.api-sports.io/flags/tr.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 49,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.154Z",
+      "updated_at": "2023-03-15T14:25:25.154Z",
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "https://media-1.api-sports.io/flags/ua.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 50,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.297Z",
+      "updated_at": "2023-03-15T14:25:25.297Z",
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 51,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.160Z",
+      "updated_at": "2023-03-15T14:25:25.160Z",
+      "name": "Belarus",
+      "code": "BY",
+      "flag": "https://media-2.api-sports.io/flags/by.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 54,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.205Z",
+      "updated_at": "2023-03-15T14:25:25.205Z",
+      "name": "Cyprus",
+      "code": "CY",
+      "flag": "https://media-1.api-sports.io/flags/cy.svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 55,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.166Z",
+      "updated_at": "2023-03-15T14:25:25.166Z",
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    }
+  },
+  {
+    "model": "basket.country",
+    "pk": 63,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.972Z",
+      "updated_at": "2023-03-15T14:25:24.972Z",
+      "name": "Uruguay",
+      "code": "UY",
+      "flag": "https://media-2.api-sports.io/flags/uy.svg"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 5,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.072Z",
+      "updated_at": "2023-03-15T14:25:25.072Z",
+      "name": "Perth",
+      "logo": "https://media.api-sports.io/basketball/teams/5.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 6,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.033Z",
+      "updated_at": "2023-03-15T14:25:25.033Z",
+      "name": "Illawarra Hawks",
+      "logo": "https://media-1.api-sports.io/basketball/teams/6.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 7,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.072Z",
+      "updated_at": "2023-03-15T14:25:25.072Z",
+      "name": "Brisbane Bullets",
+      "logo": "https://media-1.api-sports.io/basketball/teams/7.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 9,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.032Z",
+      "updated_at": "2023-03-15T14:25:25.032Z",
+      "name": "New Zealand Breakers",
+      "logo": "https://media-2.api-sports.io/basketball/teams/9.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 12,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.254Z",
+      "updated_at": "2023-03-15T14:25:25.254Z",
+      "name": "Chalons-Reims",
+      "logo": "https://media-1.api-sports.io/basketball/teams/12.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 13,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.257Z",
+      "updated_at": "2023-03-15T14:25:25.257Z",
+      "name": "Elan Bearnais",
+      "logo": "https://media-1.api-sports.io/basketball/teams/13.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 15,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.267Z",
+      "updated_at": "2023-03-15T14:25:25.267Z",
+      "name": "Orleans",
+      "logo": "https://media-1.api-sports.io/basketball/teams/15.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 17,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.257Z",
+      "updated_at": "2023-03-15T14:25:25.257Z",
+      "name": "Gravelines-Dunkerque",
+      "logo": "https://media-2.api-sports.io/basketball/teams/17.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 19,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.267Z",
+      "updated_at": "2023-03-15T14:25:25.267Z",
+      "name": "Roanne",
+      "logo": "https://media-2.api-sports.io/basketball/teams/19.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 27,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.255Z",
+      "updated_at": "2023-03-15T14:25:25.255Z",
+      "name": "Limoges",
+      "logo": "https://media-2.api-sports.io/basketball/teams/27.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 28,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.044Z",
+      "updated_at": "2023-03-15T14:25:25.044Z",
+      "name": "Adelaide Lightning W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/28.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 29,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.045Z",
+      "updated_at": "2023-03-15T14:25:25.045Z",
+      "name": "Sydney W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/29.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 31,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.039Z",
+      "updated_at": "2023-03-15T14:25:25.039Z",
+      "name": "Townsville W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/31.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 32,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.039Z",
+      "updated_at": "2023-03-15T14:25:25.039Z",
+      "name": "Bendigo W",
+      "logo": "https://media.api-sports.io/basketball/teams/32.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 34,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.042Z",
+      "updated_at": "2023-03-15T14:25:25.042Z",
+      "name": "Canberra Capitals W",
+      "logo": "https://media.api-sports.io/basketball/teams/34.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 70,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.042Z",
+      "updated_at": "2023-03-15T14:25:25.042Z",
+      "name": "Dandenong W",
+      "logo": "https://media.api-sports.io/basketball/teams/70.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 74,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.108Z",
+      "updated_at": "2023-03-15T14:25:25.108Z",
+      "name": "Singapore Slingers",
+      "logo": "https://media-2.api-sports.io/basketball/teams/74.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 76,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.109Z",
+      "updated_at": "2023-03-15T14:25:25.109Z",
+      "name": "Eastern Long Lions",
+      "logo": "https://media-2.api-sports.io/basketball/teams/76.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 77,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.111Z",
+      "updated_at": "2023-03-15T14:25:25.111Z",
+      "name": "Formosa Dreamers",
+      "logo": "https://media-1.api-sports.io/basketball/teams/77.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 80,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.110Z",
+      "updated_at": "2023-03-15T14:25:25.110Z",
+      "name": "Alab Pilipinas",
+      "logo": "https://media.api-sports.io/basketball/teams/80.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 96,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.260Z",
+      "updated_at": "2023-03-15T14:25:25.260Z",
+      "name": "Lille",
+      "logo": "https://media.api-sports.io/basketball/teams/96.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 97,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.264Z",
+      "updated_at": "2023-03-15T14:25:25.264Z",
+      "name": "Nantes",
+      "logo": "https://media-2.api-sports.io/basketball/teams/97.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 99,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.264Z",
+      "updated_at": "2023-03-15T14:25:25.264Z",
+      "name": "Quimper",
+      "logo": "https://media-2.api-sports.io/basketball/teams/99.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 101,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.262Z",
+      "updated_at": "2023-03-15T14:25:25.262Z",
+      "name": "Rouen",
+      "logo": "https://media.api-sports.io/basketball/teams/101.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 104,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.262Z",
+      "updated_at": "2023-03-15T14:25:25.262Z",
+      "name": "Aix Maurienne",
+      "logo": "https://media-1.api-sports.io/basketball/teams/104.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 105,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.259Z",
+      "updated_at": "2023-03-15T14:25:25.259Z",
+      "name": "Evreux",
+      "logo": "https://media-1.api-sports.io/basketball/teams/105.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 120,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.250Z",
+      "updated_at": "2023-03-15T14:25:25.250Z",
+      "name": "Bourges W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/120.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 122,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.250Z",
+      "updated_at": "2023-03-15T14:25:25.250Z",
+      "name": "ESB Lille W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/122.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 124,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.252Z",
+      "updated_at": "2023-03-15T14:25:25.252Z",
+      "name": "La Roche W",
+      "logo": "https://media.api-sports.io/basketball/teams/124.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 125,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.252Z",
+      "updated_at": "2023-03-15T14:25:25.252Z",
+      "name": "Landerneau Bretagne W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/125.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 138,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.021Z",
+      "updated_at": "2023-03-15T14:25:25.021Z",
+      "name": "Dallas Mavericks",
+      "logo": "https://media-2.api-sports.io/basketball/teams/138.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 142,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.986Z",
+      "updated_at": "2023-03-15T14:25:24.986Z",
+      "name": "Houston Rockets",
+      "logo": "https://media-1.api-sports.io/basketball/teams/142.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 144,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.020Z",
+      "updated_at": "2023-03-15T14:25:25.020Z",
+      "name": "Los Angeles Clippers",
+      "logo": "https://media-2.api-sports.io/basketball/teams/144.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 147,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.985Z",
+      "updated_at": "2023-03-15T14:25:24.985Z",
+      "name": "Miami Heat",
+      "logo": "https://media.api-sports.io/basketball/teams/147.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 250,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.305Z",
+      "updated_at": "2023-03-15T14:25:25.305Z",
+      "name": "Agua Caliente Clippers",
+      "logo": "https://media-1.api-sports.io/basketball/teams/250.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 251,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.329Z",
+      "updated_at": "2023-03-15T14:25:25.329Z",
+      "name": "Austin Toros Spurs",
+      "logo": "https://media.api-sports.io/basketball/teams/251.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 253,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.309Z",
+      "updated_at": "2023-03-15T14:25:25.309Z",
+      "name": "Capital City Go-Go",
+      "logo": "https://media.api-sports.io/basketball/teams/253.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 255,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.999Z",
+      "updated_at": "2023-03-15T14:25:24.999Z",
+      "name": "Delaware Blue Coats",
+      "logo": "https://media-2.api-sports.io/basketball/teams/255.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 256,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.322Z",
+      "updated_at": "2023-03-15T14:25:25.322Z",
+      "name": "Erie BayHawks",
+      "logo": "https://media-1.api-sports.io/basketball/teams/256.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 257,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.994Z",
+      "updated_at": "2023-03-15T14:25:24.994Z",
+      "name": "Fort Wayne Mad Ants",
+      "logo": "https://media-2.api-sports.io/basketball/teams/257.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 258,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.316Z",
+      "updated_at": "2023-03-15T14:25:25.316Z",
+      "name": "Grand Rapids Drive",
+      "logo": "https://media.api-sports.io/basketball/teams/258.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 261,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.024Z",
+      "updated_at": "2023-03-15T14:25:25.024Z",
+      "name": "Lakeland Magic",
+      "logo": "https://media-2.api-sports.io/basketball/teams/261.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 265,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.321Z",
+      "updated_at": "2023-03-15T14:25:25.321Z",
+      "name": "Northern Arizona Suns",
+      "logo": "https://media.api-sports.io/basketball/teams/265.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 266,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.315Z",
+      "updated_at": "2023-03-15T14:25:25.315Z",
+      "name": "Oklahoma City Blue",
+      "logo": "https://media-1.api-sports.io/basketball/teams/266.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 269,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.992Z",
+      "updated_at": "2023-03-15T14:25:24.992Z",
+      "name": "Salt Lake City Stars",
+      "logo": "https://media-1.api-sports.io/basketball/teams/269.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 270,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.023Z",
+      "updated_at": "2023-03-15T14:25:25.023Z",
+      "name": "Santa Cruz Warriors",
+      "logo": "https://media-2.api-sports.io/basketball/teams/270.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 273,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.998Z",
+      "updated_at": "2023-03-15T14:25:24.998Z",
+      "name": "Stockton Kings",
+      "logo": "https://media.api-sports.io/basketball/teams/273.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 275,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.329Z",
+      "updated_at": "2023-03-15T14:25:25.329Z",
+      "name": "Westchester",
+      "logo": "https://media.api-sports.io/basketball/teams/275.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 281,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.334Z",
+      "updated_at": "2023-03-15T14:25:25.334Z",
+      "name": "Atenas",
+      "logo": "https://media-1.api-sports.io/basketball/teams/281.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 282,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.933Z",
+      "updated_at": "2023-03-15T14:25:24.933Z",
+      "name": "Boca Juniors",
+      "logo": "https://media-2.api-sports.io/basketball/teams/282.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 283,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.324Z",
+      "updated_at": "2023-03-15T14:25:25.324Z",
+      "name": "Comunicaciones Mercedes",
+      "logo": "https://media-2.api-sports.io/basketball/teams/283.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 284,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.935Z",
+      "updated_at": "2023-03-15T14:25:24.935Z",
+      "name": "Estudiantes",
+      "logo": "https://media-2.api-sports.io/basketball/teams/284.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 290,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.980Z",
+      "updated_at": "2023-03-15T14:25:24.980Z",
+      "name": "Libertad",
+      "logo": "https://media-2.api-sports.io/basketball/teams/290.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 292,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.981Z",
+      "updated_at": "2023-03-15T14:25:24.981Z",
+      "name": "Olimpico",
+      "logo": "https://media-2.api-sports.io/basketball/teams/292.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 293,
+    "fields": {
+      "created_at": "2023-03-15T14:15:04.314Z",
+      "updated_at": "2023-03-15T14:15:04.314Z",
+      "name": "Penarol",
+      "logo": "https://media-1.api-sports.io/basketball/teams/293.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 297,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.324Z",
+      "updated_at": "2023-03-15T14:25:25.324Z",
+      "name": "San Lorenzo",
+      "logo": "https://media.api-sports.io/basketball/teams/297.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 299,
+    "fields": {
+      "created_at": "2023-03-15T14:15:04.316Z",
+      "updated_at": "2023-03-15T14:15:04.316Z",
+      "name": "Weber Bahia",
+      "logo": "https://media-1.api-sports.io/basketball/teams/299.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 300,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.247Z",
+      "updated_at": "2023-03-15T14:25:25.247Z",
+      "name": "Antwerp Giants",
+      "logo": "https://media-2.api-sports.io/basketball/teams/300.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 303,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.289Z",
+      "updated_at": "2023-03-15T14:25:25.289Z",
+      "name": "Leuven Bears",
+      "logo": "https://media-2.api-sports.io/basketball/teams/303.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 304,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.248Z",
+      "updated_at": "2023-03-15T14:25:25.248Z",
+      "name": "Liege",
+      "logo": "https://media.api-sports.io/basketball/teams/304.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 309,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.288Z",
+      "updated_at": "2023-03-15T14:25:25.288Z",
+      "name": "Spirou Charleroi",
+      "logo": "https://media-1.api-sports.io/basketball/teams/309.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 314,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.302Z",
+      "updated_at": "2023-03-15T14:25:25.302Z",
+      "name": "Laarne W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/314.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 354,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.963Z",
+      "updated_at": "2023-03-15T14:25:24.963Z",
+      "name": "Halifax",
+      "logo": "https://media-1.api-sports.io/basketball/teams/354.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 357,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.961Z",
+      "updated_at": "2023-03-15T14:25:24.961Z",
+      "name": "London",
+      "logo": "https://media.api-sports.io/basketball/teams/357.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 358,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.326Z",
+      "updated_at": "2023-03-15T14:25:25.326Z",
+      "name": "Moncton",
+      "logo": "https://media.api-sports.io/basketball/teams/358.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 420,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.282Z",
+      "updated_at": "2023-03-15T14:25:25.282Z",
+      "name": "Zadar",
+      "logo": "https://media-2.api-sports.io/basketball/teams/420.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 425,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.099Z",
+      "updated_at": "2023-03-15T14:25:25.099Z",
+      "name": "Guangdong",
+      "logo": "https://media-2.api-sports.io/basketball/teams/425.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 426,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.095Z",
+      "updated_at": "2023-03-15T14:25:25.095Z",
+      "name": "Guangzhou",
+      "logo": "https://media-1.api-sports.io/basketball/teams/426.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 428,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.101Z",
+      "updated_at": "2023-03-15T14:25:25.101Z",
+      "name": "Jilin",
+      "logo": "https://media-1.api-sports.io/basketball/teams/428.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 429,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.099Z",
+      "updated_at": "2023-03-15T14:25:25.099Z",
+      "name": "Liaoning",
+      "logo": "https://media.api-sports.io/basketball/teams/429.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 431,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.101Z",
+      "updated_at": "2023-03-15T14:25:25.101Z",
+      "name": "Qingdao",
+      "logo": "https://media-1.api-sports.io/basketball/teams/431.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 435,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.096Z",
+      "updated_at": "2023-03-15T14:25:25.096Z",
+      "name": "Shenzhen",
+      "logo": "https://media.api-sports.io/basketball/teams/435.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 437,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.113Z",
+      "updated_at": "2023-03-15T14:25:25.113Z",
+      "name": "Tianjin",
+      "logo": "https://media.api-sports.io/basketball/teams/437.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 438,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.113Z",
+      "updated_at": "2023-03-15T14:25:25.113Z",
+      "name": "Xinjiang",
+      "logo": "https://media.api-sports.io/basketball/teams/438.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 439,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.094Z",
+      "updated_at": "2023-03-15T14:25:25.094Z",
+      "name": "Zhejiang Chouzhou",
+      "logo": "https://media-1.api-sports.io/basketball/teams/439.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 440,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.097Z",
+      "updated_at": "2023-03-15T14:25:25.097Z",
+      "name": "Zhejiang Guangsha",
+      "logo": "https://media-1.api-sports.io/basketball/teams/440.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 486,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.196Z",
+      "updated_at": "2023-03-15T14:25:25.196Z",
+      "name": "BC Nokia",
+      "logo": "https://media.api-sports.io/basketball/teams/486.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 487,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.191Z",
+      "updated_at": "2023-03-15T14:25:25.191Z",
+      "name": "Helsinki Seagulls",
+      "logo": "https://media-2.api-sports.io/basketball/teams/487.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 488,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.193Z",
+      "updated_at": "2023-03-15T14:25:25.193Z",
+      "name": "KTP Kotka Basket",
+      "logo": "https://media-1.api-sports.io/basketball/teams/488.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 490,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.193Z",
+      "updated_at": "2023-03-15T14:25:25.193Z",
+      "name": "Kataja",
+      "logo": "https://media-1.api-sports.io/basketball/teams/490.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 491,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.195Z",
+      "updated_at": "2023-03-15T14:25:25.195Z",
+      "name": "Kobrat",
+      "logo": "https://media-2.api-sports.io/basketball/teams/491.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 495,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.190Z",
+      "updated_at": "2023-03-15T14:25:25.190Z",
+      "name": "Salon Vilpas",
+      "logo": "https://media-1.api-sports.io/basketball/teams/495.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 522,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.286Z",
+      "updated_at": "2023-03-15T14:25:25.286Z",
+      "name": "Bayern",
+      "logo": "https://media.api-sports.io/basketball/teams/522.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 537,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.235Z",
+      "updated_at": "2023-03-15T14:25:25.235Z",
+      "name": "Freiburg W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/537.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 541,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.241Z",
+      "updated_at": "2023-03-15T14:25:25.241Z",
+      "name": "Herner W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/541.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 542,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.232Z",
+      "updated_at": "2023-03-15T14:25:25.232Z",
+      "name": "Keltern W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/542.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 543,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.231Z",
+      "updated_at": "2023-03-15T14:25:25.231Z",
+      "name": "Marburg W",
+      "logo": "https://media.api-sports.io/basketball/teams/543.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 545,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.230Z",
+      "updated_at": "2023-03-15T14:25:25.230Z",
+      "name": "TK Hannover W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/545.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 546,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.229Z",
+      "updated_at": "2023-03-15T14:25:25.229Z",
+      "name": "Wasserburg W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/546.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 554,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.270Z",
+      "updated_at": "2023-03-15T14:25:25.270Z",
+      "name": "Kirchheim",
+      "logo": "https://media-1.api-sports.io/basketball/teams/554.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 558,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.269Z",
+      "updated_at": "2023-03-15T14:25:25.269Z",
+      "name": "Paderborn",
+      "logo": "https://media-2.api-sports.io/basketball/teams/558.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 614,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.284Z",
+      "updated_at": "2023-03-15T14:25:25.284Z",
+      "name": "Panathinaikos",
+      "logo": "https://media-2.api-sports.io/basketball/teams/614.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 680,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.106Z",
+      "updated_at": "2023-03-15T14:25:25.106Z",
+      "name": "Hapoel Holon",
+      "logo": "https://media-2.api-sports.io/basketball/teams/680.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 682,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.106Z",
+      "updated_at": "2023-03-15T14:25:25.106Z",
+      "name": "Hapoel Tel-Aviv",
+      "logo": "https://media.api-sports.io/basketball/teams/682.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 687,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.240Z",
+      "updated_at": "2023-03-15T14:25:25.240Z",
+      "name": "Maccabi Tel Aviv",
+      "logo": "https://media.api-sports.io/basketball/teams/687.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 722,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.285Z",
+      "updated_at": "2023-03-15T14:25:25.285Z",
+      "name": "Olimpia Milano",
+      "logo": "https://media-1.api-sports.io/basketball/teams/722.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 743,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.292Z",
+      "updated_at": "2023-03-15T14:25:25.292Z",
+      "name": "San Martino W",
+      "logo": "https://media.api-sports.io/basketball/teams/743.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 746,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.292Z",
+      "updated_at": "2023-03-15T14:25:25.292Z",
+      "name": "Vigarano W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/746.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 750,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.082Z",
+      "updated_at": "2023-03-15T14:25:25.082Z",
+      "name": "Brave Thunders",
+      "logo": "https://media.api-sports.io/basketball/teams/750.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 752,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.082Z",
+      "updated_at": "2023-03-15T14:25:25.082Z",
+      "name": "Diamond Dolphins",
+      "logo": "https://media-1.api-sports.io/basketball/teams/752.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 768,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.124Z",
+      "updated_at": "2023-03-15T14:25:25.124Z",
+      "name": "Atyrau",
+      "logo": "https://media-2.api-sports.io/basketball/teams/768.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 769,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.144Z",
+      "updated_at": "2023-03-15T14:25:25.144Z",
+      "name": "Kaspiy Aktau",
+      "logo": "https://media.api-sports.io/basketball/teams/769.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 770,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.145Z",
+      "updated_at": "2023-03-15T14:25:25.145Z",
+      "name": "Kokshetay",
+      "logo": "https://media-2.api-sports.io/basketball/teams/770.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 771,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.116Z",
+      "updated_at": "2023-03-15T14:25:25.116Z",
+      "name": "Tobol Kostanay",
+      "logo": "https://media.api-sports.io/basketball/teams/771.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 796,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.239Z",
+      "updated_at": "2023-03-15T14:25:25.239Z",
+      "name": "Zalgiris Kaunas",
+      "logo": "https://media.api-sports.io/basketball/teams/796.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 797,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.187Z",
+      "updated_at": "2023-03-15T14:25:25.187Z",
+      "name": "Aistes LSU Kaunas W",
+      "logo": "https://media.api-sports.io/basketball/teams/797.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 798,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.198Z",
+      "updated_at": "2023-03-15T14:25:25.198Z",
+      "name": "Fortuna Klaipeda W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/798.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 800,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.198Z",
+      "updated_at": "2023-03-15T14:25:25.198Z",
+      "name": "Kibirkstis Vilnius W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/800.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 802,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.172Z",
+      "updated_at": "2023-03-15T14:25:25.172Z",
+      "name": "Delikatesas Joniskis",
+      "logo": "https://media-1.api-sports.io/basketball/teams/802.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 803,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.179Z",
+      "updated_at": "2023-03-15T14:25:25.179Z",
+      "name": "Ezerunas",
+      "logo": "https://media-1.api-sports.io/basketball/teams/803.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 804,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.174Z",
+      "updated_at": "2023-03-15T14:25:25.174Z",
+      "name": "Gargzdu",
+      "logo": "https://media.api-sports.io/basketball/teams/804.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 806,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.176Z",
+      "updated_at": "2023-03-15T14:25:25.176Z",
+      "name": "Klaipedos Neptunas",
+      "logo": "https://media-2.api-sports.io/basketball/teams/806.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 807,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.171Z",
+      "updated_at": "2023-03-15T14:25:25.171Z",
+      "name": "Mazeikiai",
+      "logo": "https://media.api-sports.io/basketball/teams/807.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 809,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.170Z",
+      "updated_at": "2023-03-15T14:25:25.170Z",
+      "name": "Perlas",
+      "logo": "https://media.api-sports.io/basketball/teams/809.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 810,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.180Z",
+      "updated_at": "2023-03-15T14:25:25.180Z",
+      "name": "Sakiai Vytis",
+      "logo": "https://media-2.api-sports.io/basketball/teams/810.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 812,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.178Z",
+      "updated_at": "2023-03-15T14:25:25.178Z",
+      "name": "Silute",
+      "logo": "https://media-2.api-sports.io/basketball/teams/812.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 813,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.176Z",
+      "updated_at": "2023-03-15T14:25:25.176Z",
+      "name": "Suduva-Mantinga",
+      "logo": "https://media-1.api-sports.io/basketball/teams/813.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 814,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.174Z",
+      "updated_at": "2023-03-15T14:25:25.174Z",
+      "name": "Taurages Krepsinio",
+      "logo": "https://media.api-sports.io/basketball/teams/814.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 815,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.170Z",
+      "updated_at": "2023-03-15T14:25:25.170Z",
+      "name": "Telsiai",
+      "logo": "https://media-2.api-sports.io/basketball/teams/815.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 816,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.181Z",
+      "updated_at": "2023-03-15T14:25:25.181Z",
+      "name": "Zalgiris Kaunas 2",
+      "logo": "https://media-1.api-sports.io/basketball/teams/816.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 818,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.018Z",
+      "updated_at": "2023-03-15T14:25:25.018Z",
+      "name": "Angeles",
+      "logo": "https://media-2.api-sports.io/basketball/teams/818.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 825,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.003Z",
+      "updated_at": "2023-03-15T14:25:25.003Z",
+      "name": "Laguneros",
+      "logo": "https://media.api-sports.io/basketball/teams/825.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 826,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.011Z",
+      "updated_at": "2023-03-15T14:25:25.011Z",
+      "name": "Lenadores",
+      "logo": "https://media-1.api-sports.io/basketball/teams/826.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 827,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.008Z",
+      "updated_at": "2023-03-15T14:25:25.008Z",
+      "name": "Libertadores",
+      "logo": "https://media-1.api-sports.io/basketball/teams/827.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 830,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.004Z",
+      "updated_at": "2023-03-15T14:25:25.004Z",
+      "name": "Panteras",
+      "logo": "https://media-2.api-sports.io/basketball/teams/830.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 832,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.007Z",
+      "updated_at": "2023-03-15T14:25:25.007Z",
+      "name": "San Luis",
+      "logo": "https://media-1.api-sports.io/basketball/teams/832.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 833,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.011Z",
+      "updated_at": "2023-03-15T14:25:25.011Z",
+      "name": "Soles",
+      "logo": "https://media-2.api-sports.io/basketball/teams/833.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 844,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.272Z",
+      "updated_at": "2023-03-15T14:25:25.272Z",
+      "name": "Amsterdam",
+      "logo": "https://media.api-sports.io/basketball/teams/844.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 851,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.272Z",
+      "updated_at": "2023-03-15T14:25:25.272Z",
+      "name": "Rotterdam",
+      "logo": "https://media-1.api-sports.io/basketball/teams/851.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 866,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.201Z",
+      "updated_at": "2023-03-15T14:25:25.201Z",
+      "name": "Kumanovo",
+      "logo": "https://media-2.api-sports.io/basketball/teams/866.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 890,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.209Z",
+      "updated_at": "2023-03-15T14:25:25.209Z",
+      "name": "GKS Tychy",
+      "logo": "https://media.api-sports.io/basketball/teams/890.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 891,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.224Z",
+      "updated_at": "2023-03-15T14:25:25.224Z",
+      "name": "Gornik Walbrzych",
+      "logo": "https://media.api-sports.io/basketball/teams/891.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 892,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.223Z",
+      "updated_at": "2023-03-15T14:25:25.223Z",
+      "name": "Kotwica Kolobrzeg",
+      "logo": "https://media.api-sports.io/basketball/teams/892.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 903,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.208Z",
+      "updated_at": "2023-03-15T14:25:25.208Z",
+      "name": "WKK Wroclaw",
+      "logo": "https://media-2.api-sports.io/basketball/teams/903.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 921,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.212Z",
+      "updated_at": "2023-03-15T14:25:25.212Z",
+      "name": "Arka Gdynia W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/921.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 924,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.211Z",
+      "updated_at": "2023-03-15T14:25:25.211Z",
+      "name": "Lublin W",
+      "logo": "https://media.api-sports.io/basketball/teams/924.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 942,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.319Z",
+      "updated_at": "2023-03-15T14:25:25.319Z",
+      "name": "Ovarense",
+      "logo": "https://media-1.api-sports.io/basketball/teams/942.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 944,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.320Z",
+      "updated_at": "2023-03-15T14:25:25.320Z",
+      "name": "Terceira",
+      "logo": "https://media-1.api-sports.io/basketball/teams/944.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 968,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.183Z",
+      "updated_at": "2023-03-15T14:25:25.183Z",
+      "name": "ASC Targu Jiu",
+      "logo": "https://media-1.api-sports.io/basketball/teams/968.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 969,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.214Z",
+      "updated_at": "2023-03-15T14:25:25.214Z",
+      "name": "Athletic Constanta",
+      "logo": "https://media-1.api-sports.io/basketball/teams/969.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 970,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.158Z",
+      "updated_at": "2023-03-15T14:25:25.158Z",
+      "name": "BC Steaua Bucuresti",
+      "logo": "https://media-1.api-sports.io/basketball/teams/970.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 972,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.157Z",
+      "updated_at": "2023-03-15T14:25:25.157Z",
+      "name": "BCM Pitesti",
+      "logo": "https://media-2.api-sports.io/basketball/teams/972.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 975,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.216Z",
+      "updated_at": "2023-03-15T14:25:25.216Z",
+      "name": "CSM Oradea",
+      "logo": "https://media-1.api-sports.io/basketball/teams/975.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 979,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.203Z",
+      "updated_at": "2023-03-15T14:25:25.203Z",
+      "name": "Miercurea Ciuc",
+      "logo": "https://media-2.api-sports.io/basketball/teams/979.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 981,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.216Z",
+      "updated_at": "2023-03-15T14:25:25.216Z",
+      "name": "SCM Craiova",
+      "logo": "https://media-1.api-sports.io/basketball/teams/981.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1011,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.141Z",
+      "updated_at": "2023-03-15T14:25:25.141Z",
+      "name": "Novosibirsk",
+      "logo": "https://media.api-sports.io/basketball/teams/1011.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1021,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.141Z",
+      "updated_at": "2023-03-15T14:25:25.141Z",
+      "name": "Yekaterinburg",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1021.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1024,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.221Z",
+      "updated_at": "2023-03-15T14:25:25.221Z",
+      "name": "Khimki M.",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1024.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1043,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.126Z",
+      "updated_at": "2023-03-15T14:25:25.126Z",
+      "name": "Al Ittihad",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1043.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1046,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.134Z",
+      "updated_at": "2023-03-15T14:25:25.134Z",
+      "name": "Al Wehda",
+      "logo": "https://media.api-sports.io/basketball/teams/1046.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1050,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.134Z",
+      "updated_at": "2023-03-15T14:25:25.134Z",
+      "name": "Ohod",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1050.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1066,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.282Z",
+      "updated_at": "2023-03-15T14:25:25.282Z",
+      "name": "FMP Beograd",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1066.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1083,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.218Z",
+      "updated_at": "2023-03-15T14:25:25.218Z",
+      "name": "Young Angels Kosice W",
+      "logo": "https://media.api-sports.io/basketball/teams/1083.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1086,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.245Z",
+      "updated_at": "2023-03-15T14:25:25.245Z",
+      "name": "Ilirija W",
+      "logo": "https://media.api-sports.io/basketball/teams/1086.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1090,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.245Z",
+      "updated_at": "2023-03-15T14:25:25.245Z",
+      "name": "Maribor W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1090.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1093,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.275Z",
+      "updated_at": "2023-03-15T14:25:25.275Z",
+      "name": "Helios Domzale",
+      "logo": "https://media.api-sports.io/basketball/teams/1093.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1102,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.086Z",
+      "updated_at": "2023-03-15T14:25:25.086Z",
+      "name": "Anyang",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1102.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1103,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.084Z",
+      "updated_at": "2023-03-15T14:25:25.084Z",
+      "name": "Goyang",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1103.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1108,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.087Z",
+      "updated_at": "2023-03-15T14:25:25.087Z",
+      "name": "Seoul Knights",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1108.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1109,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.085Z",
+      "updated_at": "2023-03-15T14:25:25.085Z",
+      "name": "Seoul Thunders",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1109.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1116,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.075Z",
+      "updated_at": "2023-03-15T14:25:25.075Z",
+      "name": "Samsung Blue Minx W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1116.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1117,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.076Z",
+      "updated_at": "2023-03-15T14:25:25.076Z",
+      "name": "Woori Wibee W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1117.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1122,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.299Z",
+      "updated_at": "2023-03-15T14:25:25.299Z",
+      "name": "Castello",
+      "logo": "https://media.api-sports.io/basketball/teams/1122.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1123,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.313Z",
+      "updated_at": "2023-03-15T14:25:25.313Z",
+      "name": "Forca Lleida",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1123.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1126,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.314Z",
+      "updated_at": "2023-03-15T14:25:25.314Z",
+      "name": "Huesca",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1126.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1127,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.300Z",
+      "updated_at": "2023-03-15T14:25:25.300Z",
+      "name": "Leyma Coruna",
+      "logo": "https://media.api-sports.io/basketball/teams/1127.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1129,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.294Z",
+      "updated_at": "2023-03-15T14:25:25.294Z",
+      "name": "Melilla",
+      "logo": "https://media.api-sports.io/basketball/teams/1129.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1132,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.311Z",
+      "updated_at": "2023-03-15T14:25:25.311Z",
+      "name": "Palencia",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1132.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1134,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.279Z",
+      "updated_at": "2023-03-15T14:25:25.279Z",
+      "name": "Real Canoe",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1134.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1172,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.238Z",
+      "updated_at": "2023-03-15T14:25:25.238Z",
+      "name": "Valencia W",
+      "logo": "https://media.api-sports.io/basketball/teams/1172.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1269,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.221Z",
+      "updated_at": "2023-03-15T14:25:25.221Z",
+      "name": "Darussafaka",
+      "logo": "https://media.api-sports.io/basketball/teams/1269.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1273,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.089Z",
+      "updated_at": "2023-03-15T14:25:25.089Z",
+      "name": "OGM Ormanspor",
+      "logo": "https://media.api-sports.io/basketball/teams/1273.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1275,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.089Z",
+      "updated_at": "2023-03-15T14:25:25.089Z",
+      "name": "Sigortam.net ITU",
+      "logo": "https://media.api-sports.io/basketball/teams/1275.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1279,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.138Z",
+      "updated_at": "2023-03-15T14:25:25.138Z",
+      "name": "Ankara Kolejliler",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1279.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1289,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.152Z",
+      "updated_at": "2023-03-15T14:25:25.152Z",
+      "name": "Kocaeli",
+      "logo": "https://media.api-sports.io/basketball/teams/1289.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1292,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.152Z",
+      "updated_at": "2023-03-15T14:25:25.152Z",
+      "name": "UPS Spor",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1292.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1299,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.138Z",
+      "updated_at": "2023-03-15T14:25:25.139Z",
+      "name": "Fethiye Bld.",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1299.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1305,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.150Z",
+      "updated_at": "2023-03-15T14:25:25.150Z",
+      "name": "Merkezefendi",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1305.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1308,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.163Z",
+      "updated_at": "2023-03-15T14:25:25.163Z",
+      "name": "Yalova Bld.",
+      "logo": "https://media.api-sports.io/basketball/teams/1308.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1310,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.226Z",
+      "updated_at": "2023-03-15T14:25:25.226Z",
+      "name": "BK Zaporozhye",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1310.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1315,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.227Z",
+      "updated_at": "2023-03-15T14:25:25.227Z",
+      "name": "Mykolaiv",
+      "logo": "https://media.api-sports.io/basketball/teams/1315.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1318,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.155Z",
+      "updated_at": "2023-03-15T14:25:25.155Z",
+      "name": "Berdyansk W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1318.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1319,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.185Z",
+      "updated_at": "2023-03-15T14:25:25.185Z",
+      "name": "Dynamo Kyiv W",
+      "logo": "https://media.api-sports.io/basketball/teams/1319.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1322,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.185Z",
+      "updated_at": "2023-03-15T14:25:25.185Z",
+      "name": "Odessa W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1322.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1326,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.297Z",
+      "updated_at": "2023-03-15T14:25:25.297Z",
+      "name": "Glasgow Rocks",
+      "logo": "https://media.api-sports.io/basketball/teams/1326.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1335,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.298Z",
+      "updated_at": "2023-03-15T14:25:25.298Z",
+      "name": "Worcester Wolves",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1335.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1351,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.162Z",
+      "updated_at": "2023-03-15T14:25:25.162Z",
+      "name": "Grodno",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1351.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1356,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.161Z",
+      "updated_at": "2023-03-15T14:25:25.161Z",
+      "name": "Tsmoki Minsk 2",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1356.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1394,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.206Z",
+      "updated_at": "2023-03-15T14:25:25.206Z",
+      "name": "ETHA Engomi",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1394.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1396,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.205Z",
+      "updated_at": "2023-03-15T14:25:25.205Z",
+      "name": "Omonia",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1396.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1419,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.303Z",
+      "updated_at": "2023-03-15T14:25:25.303Z",
+      "name": "Jeugd Gentson W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1419.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1443,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.326Z",
+      "updated_at": "2023-03-15T14:25:25.326Z",
+      "name": "Cape Breton Highlanders",
+      "logo": "https://media.api-sports.io/basketball/teams/1443.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1513,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.242Z",
+      "updated_at": "2023-03-15T14:25:25.242Z",
+      "name": "Chemnitz W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1513.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1514,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.234Z",
+      "updated_at": "2023-03-15T14:25:25.234Z",
+      "name": "TV Saarlouis W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1514.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1607,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.201Z",
+      "updated_at": "2023-03-15T14:25:25.201Z",
+      "name": "Shkupi Skopje",
+      "logo": "https://media.api-sports.io/basketball/teams/1607.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1610,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.018Z",
+      "updated_at": "2023-03-15T14:25:25.018Z",
+      "name": "Mineros de Zacatecas",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1610.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1647,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.148Z",
+      "updated_at": "2023-03-15T14:25:25.148Z",
+      "name": "Aurel Vlaicu",
+      "logo": "https://media.api-sports.io/basketball/teams/1647.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1648,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.183Z",
+      "updated_at": "2023-03-15T14:25:25.183Z",
+      "name": "BC Mures Targu",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1648.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1649,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.214Z",
+      "updated_at": "2023-03-15T14:25:25.214Z",
+      "name": "Cuza Sport Braila",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1649.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1650,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.148Z",
+      "updated_at": "2023-03-15T14:25:25.148Z",
+      "name": "Galati",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1650.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1652,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.203Z",
+      "updated_at": "2023-03-15T14:25:25.203Z",
+      "name": "Univ. Cluj-Napoca",
+      "logo": "https://media.api-sports.io/basketball/teams/1652.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1664,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.132Z",
+      "updated_at": "2023-03-15T14:25:25.132Z",
+      "name": "Al Nahdha",
+      "logo": "https://media.api-sports.io/basketball/teams/1664.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1679,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.219Z",
+      "updated_at": "2023-03-15T14:25:25.219Z",
+      "name": "Poprad W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1679.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1684,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.275Z",
+      "updated_at": "2023-03-15T14:25:25.275Z",
+      "name": "Ilirija",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1684.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1694,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.311Z",
+      "updated_at": "2023-03-15T14:25:25.311Z",
+      "name": "Araberri",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1694.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1695,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.295Z",
+      "updated_at": "2023-03-15T14:25:25.295Z",
+      "name": "Bilbao",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1695.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1696,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.280Z",
+      "updated_at": "2023-03-15T14:25:25.280Z",
+      "name": "Iberojet Palma",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1696.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1713,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.237Z",
+      "updated_at": "2023-03-15T14:25:25.237Z",
+      "name": "Lacturale Araski W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/1713.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1747,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.150Z",
+      "updated_at": "2023-03-15T14:25:25.150Z",
+      "name": "Sogutsen Seramik",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1747.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1751,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.164Z",
+      "updated_at": "2023-03-15T14:25:25.164Z",
+      "name": "Artvin",
+      "logo": "https://media-1.api-sports.io/basketball/teams/1751.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 1777,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.155Z",
+      "updated_at": "2023-03-15T14:25:25.155Z",
+      "name": "Kozachka Zaporozhye W",
+      "logo": "https://media.api-sports.io/basketball/teams/1777.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2338,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.287Z",
+      "updated_at": "2023-03-15T14:25:25.287Z",
+      "name": "Real Madrid",
+      "logo": "https://media.api-sports.io/basketball/teams/2338.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2990,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.331Z",
+      "updated_at": "2023-03-15T14:25:25.331Z",
+      "name": "Bigua",
+      "logo": "https://media.api-sports.io/basketball/teams/2990.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2994,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.974Z",
+      "updated_at": "2023-03-15T14:25:24.974Z",
+      "name": "Hebraica y Macabi",
+      "logo": "https://media-1.api-sports.io/basketball/teams/2994.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2995,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.334Z",
+      "updated_at": "2023-03-15T14:25:25.334Z",
+      "name": "Malvin",
+      "logo": "https://media-2.api-sports.io/basketball/teams/2995.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2997,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.975Z",
+      "updated_at": "2023-03-15T14:25:24.975Z",
+      "name": "Olimpia",
+      "logo": "https://media-2.api-sports.io/basketball/teams/2997.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 2999,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.336Z",
+      "updated_at": "2023-03-15T14:25:25.336Z",
+      "name": "Trouville",
+      "logo": "https://media-2.api-sports.io/basketball/teams/2999.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 3000,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.332Z",
+      "updated_at": "2023-03-15T14:25:25.332Z",
+      "name": "Urunday",
+      "logo": "https://media-1.api-sports.io/basketball/teams/3000.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 3001,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.336Z",
+      "updated_at": "2023-03-15T14:25:25.336Z",
+      "name": "Verdirrojo",
+      "logo": "https://media-2.api-sports.io/basketball/teams/3001.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 4732,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.167Z",
+      "updated_at": "2023-03-15T14:25:25.167Z",
+      "name": "Latvia U16 W",
+      "logo": "https://media-2.api-sports.io/basketball/teams/4732.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 4860,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.187Z",
+      "updated_at": "2023-03-15T14:25:25.187Z",
+      "name": "RSU Merks W",
+      "logo": "https://media-1.api-sports.io/basketball/teams/4860.png"
+    }
+  },
+  {
+    "model": "basket.team",
+    "pk": 4874,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.167Z",
+      "updated_at": "2023-03-15T14:25:25.167Z",
+      "name": "Tartu University/Kalev W",
+      "logo": "https://media.api-sports.io/basketball/teams/4874.png"
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 17939,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.861Z",
+      "updated_at": "2023-03-15T14:25:24.861Z",
+      "date": "2018-12-21T00:00:00Z",
+      "time": "00:00",
+      "timestamp": "1545350400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 18,
+      "country": 6,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 293,
+      "away_team": 299,
+      "home_score": {
+        "total": 84,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 21,
+        "quarter_3": 20,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 64,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 14,
+        "quarter_3": 17,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 17940,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.936Z",
+      "updated_at": "2023-03-15T14:25:24.936Z",
+      "date": "2018-12-21T00:00:00Z",
+      "time": "00:00",
+      "timestamp": "1545350400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 18,
+      "country": 6,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 282,
+      "away_team": 284,
+      "home_score": {
+        "total": 78,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 16,
+        "quarter_3": 23,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 19,
+        "quarter_3": 12,
+        "quarter_4": 12
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 17941,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.982Z",
+      "updated_at": "2023-03-15T14:25:24.982Z",
+      "date": "2018-12-21T00:30:00Z",
+      "time": "00:30",
+      "timestamp": "1545352200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 18,
+      "country": 6,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 290,
+      "away_team": 292,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 20,
+        "quarter_3": 14,
+        "quarter_4": 31
+      },
+      "away_score": {
+        "total": 73,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 22,
+        "quarter_3": 15,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 19402,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.109Z",
+      "updated_at": "2023-03-15T14:25:25.109Z",
+      "date": "2018-12-21T12:00:00Z",
+      "time": "12:00",
+      "timestamp": "1545393600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 6,
+      "country": 2,
+      "status": {
+        "long": "After Over Time",
+        "short": "AOT",
+        "timer": null
+      },
+      "home_team": 74,
+      "away_team": 76,
+      "home_score": {
+        "total": 89,
+        "over_time": 21,
+        "quarter_1": 13,
+        "quarter_2": 13,
+        "quarter_3": 24,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 92,
+        "over_time": 24,
+        "quarter_1": 12,
+        "quarter_2": 21,
+        "quarter_3": 16,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 19403,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.112Z",
+      "updated_at": "2023-03-15T14:25:25.112Z",
+      "date": "2018-12-21T12:00:00Z",
+      "time": "12:00",
+      "timestamp": "1545393600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 6,
+      "country": 2,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 80,
+      "away_team": 77,
+      "home_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 25,
+        "quarter_3": 24,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 72,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 19,
+        "quarter_3": 21,
+        "quarter_4": 12
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 19577,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.035Z",
+      "updated_at": "2023-03-15T14:25:25.035Z",
+      "date": "2018-12-21T06:20:00Z",
+      "time": "06:20",
+      "timestamp": "1545373200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 1,
+      "country": 1,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 9,
+      "away_team": 6,
+      "home_score": {
+        "total": 96,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 24,
+        "quarter_3": 24,
+        "quarter_4": 26
+      },
+      "away_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 22,
+        "quarter_3": 24,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 19578,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.073Z",
+      "updated_at": "2023-03-15T14:25:25.073Z",
+      "date": "2018-12-21T08:50:00Z",
+      "time": "08:50",
+      "timestamp": "1545382200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 1,
+      "country": 1,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 7,
+      "away_team": 5,
+      "home_score": {
+        "total": 93,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 24,
+        "quarter_3": 24,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 26,
+        "quarter_3": 19,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 20119,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.325Z",
+      "updated_at": "2023-03-15T14:25:25.325Z",
+      "date": "2018-12-21T23:00:00Z",
+      "time": "23:00",
+      "timestamp": "1545433200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "Torneo Super 20 - Semi-finals",
+      "league": 22,
+      "country": 6,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 297,
+      "away_team": 283,
+      "home_score": {
+        "total": 88,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 22,
+        "quarter_3": 21,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 81,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 25,
+        "quarter_3": 17,
+        "quarter_4": 22
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 20469,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.040Z",
+      "updated_at": "2023-03-15T14:25:25.040Z",
+      "date": "2018-12-21T08:00:00Z",
+      "time": "08:00",
+      "timestamp": "1545379200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 3,
+      "country": 1,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 32,
+      "away_team": 31,
+      "home_score": {
+        "total": 75,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 17,
+        "quarter_3": 17,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 67,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 26,
+        "quarter_3": 6,
+        "quarter_4": 15
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 20470,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.043Z",
+      "updated_at": "2023-03-15T14:25:25.043Z",
+      "date": "2018-12-21T08:00:00Z",
+      "time": "08:00",
+      "timestamp": "1545379200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 3,
+      "country": 1,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 34,
+      "away_team": 70,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 25,
+        "quarter_3": 21,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 19,
+        "quarter_3": 9,
+        "quarter_4": 10
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 20471,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.046Z",
+      "updated_at": "2023-03-15T14:25:25.046Z",
+      "date": "2018-12-21T08:30:00Z",
+      "time": "08:30",
+      "timestamp": "1545381000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 3,
+      "country": 1,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 28,
+      "away_team": 29,
+      "home_score": {
+        "total": 95,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 17,
+        "quarter_3": 29,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 52,
+        "over_time": null,
+        "quarter_1": 5,
+        "quarter_2": 22,
+        "quarter_3": 16,
+        "quarter_4": 9
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 21209,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.162Z",
+      "updated_at": "2023-03-15T14:25:25.162Z",
+      "date": "2018-12-21T15:30:00Z",
+      "time": "15:30",
+      "timestamp": "1545406200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 111,
+      "country": 51,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1356,
+      "away_team": 1351,
+      "home_score": {
+        "total": 74,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 22,
+        "quarter_3": 19,
+        "quarter_4": 10
+      },
+      "away_score": {
+        "total": 88,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 16,
+        "quarter_3": 29,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 22295,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.987Z",
+      "updated_at": "2023-03-15T14:25:24.987Z",
+      "date": "2018-12-21T01:00:00Z",
+      "time": "01:00",
+      "timestamp": "1545354000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 12,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 147,
+      "away_team": 142,
+      "home_score": {
+        "total": 101,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 32,
+        "quarter_3": 29,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 99,
+        "over_time": null,
+        "quarter_1": 33,
+        "quarter_2": 25,
+        "quarter_3": 18,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 22296,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.022Z",
+      "updated_at": "2023-03-15T14:25:25.022Z",
+      "date": "2018-12-21T03:30:00Z",
+      "time": "03:30",
+      "timestamp": "1545363000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 12,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 144,
+      "away_team": 138,
+      "home_score": {
+        "total": 125,
+        "over_time": null,
+        "quarter_1": 30,
+        "quarter_2": 35,
+        "quarter_3": 24,
+        "quarter_4": 36
+      },
+      "away_score": {
+        "total": 121,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 27,
+        "quarter_3": 28,
+        "quarter_4": 39
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 27644,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.249Z",
+      "updated_at": "2023-03-15T14:25:25.249Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 24,
+      "country": 7,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 300,
+      "away_team": 304,
+      "home_score": {
+        "total": 109,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 25,
+        "quarter_3": 34,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 11,
+        "quarter_3": 19,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 27645,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.289Z",
+      "updated_at": "2023-03-15T14:25:25.289Z",
+      "date": "2018-12-21T19:30:00Z",
+      "time": "19:30",
+      "timestamp": "1545420600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 24,
+      "country": 7,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 309,
+      "away_team": 303,
+      "home_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 16,
+        "quarter_3": 19,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 64,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 19,
+        "quarter_3": 17,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 28244,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.304Z",
+      "updated_at": "2023-03-15T14:25:25.304Z",
+      "date": "2018-12-21T20:00:00Z",
+      "time": "20:00",
+      "timestamp": "1545422400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 25,
+      "country": 7,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 314,
+      "away_team": 1419,
+      "home_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 20,
+        "quarter_3": 19,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 70,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 18,
+        "quarter_3": 21,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 30401,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.968Z",
+      "updated_at": "2023-03-15T14:25:24.968Z",
+      "date": "2018-12-21T00:00:00Z",
+      "time": "00:00",
+      "timestamp": "1545350400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 28,
+      "country": 9,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 357,
+      "away_team": 354,
+      "home_score": {
+        "total": 102,
+        "over_time": null,
+        "quarter_1": 25,
+        "quarter_2": 23,
+        "quarter_3": 27,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 107,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 25,
+        "quarter_3": 29,
+        "quarter_4": 34
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 30402,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.327Z",
+      "updated_at": "2023-03-15T14:25:25.327Z",
+      "date": "2018-12-21T23:00:00Z",
+      "time": "23:00",
+      "timestamp": "1545433200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 28,
+      "country": 9,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1443,
+      "away_team": 358,
+      "home_score": {
+        "total": 114,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 25,
+        "quarter_3": 31,
+        "quarter_4": 30
+      },
+      "away_score": {
+        "total": 84,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 29,
+        "quarter_3": 17,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 33622,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.095Z",
+      "updated_at": "2023-03-15T14:25:25.095Z",
+      "date": "2018-12-21T11:35:00Z",
+      "time": "11:35",
+      "timestamp": "1545392100",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "22",
+      "league": 31,
+      "country": 11,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 439,
+      "away_team": 426,
+      "home_score": {
+        "total": 91,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 28,
+        "quarter_3": 17,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 98,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 25,
+        "quarter_3": 22,
+        "quarter_4": 32
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 33623,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.098Z",
+      "updated_at": "2023-03-15T14:25:25.098Z",
+      "date": "2018-12-21T11:35:00Z",
+      "time": "11:35",
+      "timestamp": "1545392100",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "22",
+      "league": 31,
+      "country": 11,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 435,
+      "away_team": 440,
+      "home_score": {
+        "total": 113,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 23,
+        "quarter_3": 38,
+        "quarter_4": 31
+      },
+      "away_score": {
+        "total": 103,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 24,
+        "quarter_3": 24,
+        "quarter_4": 27
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 33624,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.100Z",
+      "updated_at": "2023-03-15T14:25:25.100Z",
+      "date": "2018-12-21T11:35:00Z",
+      "time": "11:35",
+      "timestamp": "1545392100",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "22",
+      "league": 31,
+      "country": 11,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 429,
+      "away_team": 425,
+      "home_score": {
+        "total": 106,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 21,
+        "quarter_3": 34,
+        "quarter_4": 29
+      },
+      "away_score": {
+        "total": 103,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 24,
+        "quarter_3": 26,
+        "quarter_4": 32
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 33625,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.102Z",
+      "updated_at": "2023-03-15T14:25:25.102Z",
+      "date": "2018-12-21T11:35:00Z",
+      "time": "11:35",
+      "timestamp": "1545392100",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "22",
+      "league": 31,
+      "country": 11,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 428,
+      "away_team": 431,
+      "home_score": {
+        "total": 124,
+        "over_time": null,
+        "quarter_1": 26,
+        "quarter_2": 34,
+        "quarter_3": 29,
+        "quarter_4": 35
+      },
+      "away_score": {
+        "total": 116,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 19,
+        "quarter_3": 37,
+        "quarter_4": 36
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 33626,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.114Z",
+      "updated_at": "2023-03-15T14:25:25.114Z",
+      "date": "2018-12-21T12:00:00Z",
+      "time": "12:00",
+      "timestamp": "1545393600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "22",
+      "league": 31,
+      "country": 11,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 438,
+      "away_team": 437,
+      "home_score": {
+        "total": 154,
+        "over_time": null,
+        "quarter_1": 35,
+        "quarter_2": 45,
+        "quarter_3": 36,
+        "quarter_4": 38
+      },
+      "away_score": {
+        "total": 100,
+        "over_time": null,
+        "quarter_1": 15,
+        "quarter_2": 28,
+        "quarter_3": 22,
+        "quarter_4": 35
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 35301,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.206Z",
+      "updated_at": "2023-03-15T14:25:25.206Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "10",
+      "league": 115,
+      "country": 54,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1396,
+      "away_team": 1394,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 18,
+        "quarter_3": 22,
+        "quarter_4": 25
+      },
+      "away_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 12,
+        "quarter_3": 15,
+        "quarter_4": 38
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 37191,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.192Z",
+      "updated_at": "2023-03-15T14:25:25.192Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 37,
+      "country": 15,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 495,
+      "away_team": 487,
+      "home_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 21,
+        "quarter_3": 19,
+        "quarter_4": 28
+      },
+      "away_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 29,
+        "quarter_2": 15,
+        "quarter_3": 8,
+        "quarter_4": 27
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 37192,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.194Z",
+      "updated_at": "2023-03-15T14:25:25.194Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 37,
+      "country": 15,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 488,
+      "away_team": 490,
+      "home_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 15,
+        "quarter_3": 19,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 13,
+        "quarter_2": 23,
+        "quarter_3": 24,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 37193,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.196Z",
+      "updated_at": "2023-03-15T14:25:25.196Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 37,
+      "country": 15,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 491,
+      "away_team": 486,
+      "home_score": {
+        "total": 84,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 20,
+        "quarter_3": 17,
+        "quarter_4": 26
+      },
+      "away_score": {
+        "total": 81,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 21,
+        "quarter_3": 17,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 38359,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.251Z",
+      "updated_at": "2023-03-15T14:25:25.251Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "10",
+      "league": 10,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 120,
+      "away_team": 122,
+      "home_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 19,
+        "quarter_3": 22,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 65,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 10,
+        "quarter_3": 13,
+        "quarter_4": 25
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 38360,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.253Z",
+      "updated_at": "2023-03-15T14:25:25.253Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "10",
+      "league": 10,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 124,
+      "away_team": 125,
+      "home_score": {
+        "total": 64,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 13,
+        "quarter_3": 17,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 81,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 23,
+        "quarter_3": 23,
+        "quarter_4": 18
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 39120,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.256Z",
+      "updated_at": "2023-03-15T14:25:25.256Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 2,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 12,
+      "away_team": 27,
+      "home_score": {
+        "total": 83,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 24,
+        "quarter_3": 20,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 106,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 29,
+        "quarter_3": 28,
+        "quarter_4": 29
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 39121,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.258Z",
+      "updated_at": "2023-03-15T14:25:25.258Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 2,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 17,
+      "away_team": 13,
+      "home_score": {
+        "total": 52,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 15,
+        "quarter_3": 12,
+        "quarter_4": 4
+      },
+      "away_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 22,
+        "quarter_3": 24,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 40392,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.261Z",
+      "updated_at": "2023-03-15T14:25:25.261Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 8,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 105,
+      "away_team": 96,
+      "home_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 18,
+        "quarter_3": 21,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 75,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 25,
+        "quarter_3": 15,
+        "quarter_4": 12
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 40393,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.263Z",
+      "updated_at": "2023-03-15T14:25:25.263Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 8,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 104,
+      "away_team": 101,
+      "home_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 25,
+        "quarter_3": 18,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 70,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 4,
+        "quarter_3": 19,
+        "quarter_4": 29
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 40394,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.265Z",
+      "updated_at": "2023-03-15T14:25:25.265Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 8,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 99,
+      "away_team": 97,
+      "home_score": {
+        "total": 68,
+        "over_time": null,
+        "quarter_1": 15,
+        "quarter_2": 28,
+        "quarter_3": 11,
+        "quarter_4": 14
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 25,
+        "quarter_3": 16,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 40395,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.268Z",
+      "updated_at": "2023-03-15T14:25:25.268Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 8,
+      "country": 4,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 19,
+      "away_team": 15,
+      "home_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 21,
+        "quarter_3": 21,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 69,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 15,
+        "quarter_3": 20,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41742,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.996Z",
+      "updated_at": "2023-03-15T14:25:24.996Z",
+      "date": "2018-12-21T01:00:00Z",
+      "time": "01:00",
+      "timestamp": "1545354000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 269,
+      "away_team": 257,
+      "home_score": {
+        "total": 111,
+        "over_time": null,
+        "quarter_1": 31,
+        "quarter_2": 27,
+        "quarter_3": 23,
+        "quarter_4": 30
+      },
+      "away_score": {
+        "total": 101,
+        "over_time": null,
+        "quarter_1": 29,
+        "quarter_2": 19,
+        "quarter_3": 26,
+        "quarter_4": 27
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41743,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.000Z",
+      "updated_at": "2023-03-15T14:25:25.000Z",
+      "date": "2018-12-21T02:00:00Z",
+      "time": "02:00",
+      "timestamp": "1545357600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 273,
+      "away_team": 255,
+      "home_score": {
+        "total": 127,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 33,
+        "quarter_3": 36,
+        "quarter_4": 36
+      },
+      "away_score": {
+        "total": 100,
+        "over_time": null,
+        "quarter_1": 31,
+        "quarter_2": 17,
+        "quarter_3": 26,
+        "quarter_4": 26
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41744,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.025Z",
+      "updated_at": "2023-03-15T14:25:25.025Z",
+      "date": "2018-12-21T03:30:00Z",
+      "time": "03:30",
+      "timestamp": "1545363000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 270,
+      "away_team": 261,
+      "home_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 23,
+        "quarter_3": 18,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 105,
+        "over_time": null,
+        "quarter_1": 29,
+        "quarter_2": 27,
+        "quarter_3": 25,
+        "quarter_4": 24
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41745,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.309Z",
+      "updated_at": "2023-03-15T14:25:25.309Z",
+      "date": "2018-12-21T20:00:00Z",
+      "time": "20:00",
+      "timestamp": "1545422400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 250,
+      "away_team": 253,
+      "home_score": {
+        "total": 111,
+        "over_time": null,
+        "quarter_1": 31,
+        "quarter_2": 20,
+        "quarter_3": 27,
+        "quarter_4": 33
+      },
+      "away_score": {
+        "total": 123,
+        "over_time": null,
+        "quarter_1": 33,
+        "quarter_2": 31,
+        "quarter_3": 33,
+        "quarter_4": 26
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41746,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.317Z",
+      "updated_at": "2023-03-15T14:25:25.317Z",
+      "date": "2018-12-21T20:30:00Z",
+      "time": "20:30",
+      "timestamp": "1545424200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 266,
+      "away_team": 258,
+      "home_score": {
+        "total": 106,
+        "over_time": null,
+        "quarter_1": 25,
+        "quarter_2": 25,
+        "quarter_3": 29,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 98,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 22,
+        "quarter_3": 24,
+        "quarter_4": 31
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41747,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.322Z",
+      "updated_at": "2023-03-15T14:25:25.322Z",
+      "date": "2018-12-21T22:30:00Z",
+      "time": "22:30",
+      "timestamp": "1545431400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 265,
+      "away_team": 256,
+      "home_score": {
+        "total": 95,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 30,
+        "quarter_3": 18,
+        "quarter_4": 26
+      },
+      "away_score": {
+        "total": 106,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 35,
+        "quarter_3": 24,
+        "quarter_4": 28
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 41748,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.331Z",
+      "updated_at": "2023-03-15T14:25:25.331Z",
+      "date": "2018-12-21T23:30:00Z",
+      "time": "23:30",
+      "timestamp": "1545435000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 20,
+      "country": 5,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 251,
+      "away_team": 275,
+      "home_score": {
+        "total": 99,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 21,
+        "quarter_3": 34,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 88,
+        "over_time": null,
+        "quarter_1": 34,
+        "quarter_2": 17,
+        "quarter_3": 22,
+        "quarter_4": 15
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 46110,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.231Z",
+      "updated_at": "2023-03-15T14:25:25.231Z",
+      "date": "2018-12-21T18:00:00Z",
+      "time": "18:00",
+      "timestamp": "1545415200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 41,
+      "country": 17,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 546,
+      "away_team": 545,
+      "home_score": {
+        "total": 63,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 13,
+        "quarter_3": 16,
+        "quarter_4": 12
+      },
+      "away_score": {
+        "total": 50,
+        "over_time": null,
+        "quarter_1": 7,
+        "quarter_2": 13,
+        "quarter_3": 17,
+        "quarter_4": 13
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 46111,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.233Z",
+      "updated_at": "2023-03-15T14:25:25.233Z",
+      "date": "2018-12-21T18:00:00Z",
+      "time": "18:00",
+      "timestamp": "1545415200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 41,
+      "country": 17,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 543,
+      "away_team": 542,
+      "home_score": {
+        "total": 57,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 16,
+        "quarter_3": 16,
+        "quarter_4": 4
+      },
+      "away_score": {
+        "total": 73,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 18,
+        "quarter_3": 14,
+        "quarter_4": 25
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 46112,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.236Z",
+      "updated_at": "2023-03-15T14:25:25.236Z",
+      "date": "2018-12-21T18:00:00Z",
+      "time": "18:00",
+      "timestamp": "1545415200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 41,
+      "country": 17,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1514,
+      "away_team": 537,
+      "home_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 15,
+        "quarter_2": 16,
+        "quarter_3": 16,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 64,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 8,
+        "quarter_3": 20,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 46113,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.242Z",
+      "updated_at": "2023-03-15T14:25:25.242Z",
+      "date": "2018-12-21T18:30:00Z",
+      "time": "18:30",
+      "timestamp": "1545417000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 41,
+      "country": 17,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 541,
+      "away_team": 1513,
+      "home_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 23,
+        "quarter_3": 20,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 61,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 13,
+        "quarter_3": 15,
+        "quarter_4": 13
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 46603,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.271Z",
+      "updated_at": "2023-03-15T14:25:25.271Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "16",
+      "league": 42,
+      "country": 17,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 558,
+      "away_team": 554,
+      "home_score": {
+        "total": 73,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 18,
+        "quarter_3": 16,
+        "quarter_4": 20
+      },
+      "away_score": {
+        "total": 78,
+        "over_time": null,
+        "quarter_1": 32,
+        "quarter_2": 16,
+        "quarter_3": 20,
+        "quarter_4": 10
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 51593,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.107Z",
+      "updated_at": "2023-03-15T14:25:25.107Z",
+      "date": "2018-12-21T11:45:00Z",
+      "time": "11:45",
+      "timestamp": "1545392700",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "16",
+      "league": 51,
+      "country": 22,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 682,
+      "away_team": 680,
+      "home_score": {
+        "total": 74,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 15,
+        "quarter_3": 19,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 33,
+        "quarter_2": 20,
+        "quarter_3": 13,
+        "quarter_4": 26
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 53504,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.293Z",
+      "updated_at": "2023-03-15T14:25:25.293Z",
+      "date": "2018-12-21T19:30:00Z",
+      "time": "19:30",
+      "timestamp": "1545420600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 53,
+      "country": 23,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 746,
+      "away_team": 743,
+      "home_score": {
+        "total": 61,
+        "over_time": null,
+        "quarter_1": 11,
+        "quarter_2": 17,
+        "quarter_3": 13,
+        "quarter_4": 20
+      },
+      "away_score": {
+        "total": 53,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 14,
+        "quarter_3": 13,
+        "quarter_4": 10
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 54108,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.083Z",
+      "updated_at": "2023-03-15T14:25:25.083Z",
+      "date": "2018-12-21T10:05:00Z",
+      "time": "10:05",
+      "timestamp": "1545386700",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 56,
+      "country": 24,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 750,
+      "away_team": 752,
+      "home_score": {
+        "total": 78,
+        "over_time": null,
+        "quarter_1": 13,
+        "quarter_2": 15,
+        "quarter_3": 27,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 22,
+        "quarter_3": 15,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 55623,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.125Z",
+      "updated_at": "2023-03-15T14:25:25.125Z",
+      "date": "2018-12-21T12:00:00Z",
+      "time": "12:00",
+      "timestamp": "1545393600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 57,
+      "country": 25,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 771,
+      "away_team": 768,
+      "home_score": {
+        "total": 109,
+        "over_time": null,
+        "quarter_1": 26,
+        "quarter_2": 22,
+        "quarter_3": 27,
+        "quarter_4": 34
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 16,
+        "quarter_3": 20,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 55624,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.146Z",
+      "updated_at": "2023-03-15T14:25:25.146Z",
+      "date": "2018-12-21T15:00:00Z",
+      "time": "15:00",
+      "timestamp": "1545404400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 57,
+      "country": 25,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 769,
+      "away_team": 770,
+      "home_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 14,
+        "quarter_3": 13,
+        "quarter_4": 15
+      },
+      "away_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 14,
+        "quarter_3": 16,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57154,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.199Z",
+      "updated_at": "2023-03-15T14:25:25.199Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 62,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 800,
+      "away_team": 798,
+      "home_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 19,
+        "quarter_3": 22,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 53,
+        "over_time": null,
+        "quarter_1": 6,
+        "quarter_2": 18,
+        "quarter_3": 22,
+        "quarter_4": 7
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57539,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.171Z",
+      "updated_at": "2023-03-15T14:25:25.171Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 815,
+      "away_team": 809,
+      "home_score": {
+        "total": 65,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 10,
+        "quarter_3": 19,
+        "quarter_4": 14
+      },
+      "away_score": {
+        "total": 58,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 19,
+        "quarter_3": 13,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57540,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.173Z",
+      "updated_at": "2023-03-15T14:25:25.173Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 807,
+      "away_team": 802,
+      "home_score": {
+        "total": 70,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 14,
+        "quarter_3": 19,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 26,
+        "quarter_3": 21,
+        "quarter_4": 27
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57541,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.175Z",
+      "updated_at": "2023-03-15T14:25:25.175Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 814,
+      "away_team": 804,
+      "home_score": {
+        "total": 59,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 11,
+        "quarter_3": 24,
+        "quarter_4": 12
+      },
+      "away_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 14,
+        "quarter_3": 14,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57542,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.177Z",
+      "updated_at": "2023-03-15T14:25:25.177Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 813,
+      "away_team": 806,
+      "home_score": {
+        "total": 94,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 29,
+        "quarter_3": 23,
+        "quarter_4": 25
+      },
+      "away_score": {
+        "total": 70,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 16,
+        "quarter_3": 21,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57543,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.180Z",
+      "updated_at": "2023-03-15T14:25:25.180Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 812,
+      "away_team": 803,
+      "home_score": {
+        "total": 102,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 28,
+        "quarter_3": 19,
+        "quarter_4": 31
+      },
+      "away_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 19,
+        "quarter_3": 27,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 57544,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.182Z",
+      "updated_at": "2023-03-15T14:25:25.182Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 61,
+      "country": 27,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 810,
+      "away_team": 816,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 23,
+        "quarter_3": 22,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 74,
+        "over_time": null,
+        "quarter_1": 11,
+        "quarter_2": 22,
+        "quarter_3": 21,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 58387,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.202Z",
+      "updated_at": "2023-03-15T14:25:25.202Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 67,
+      "country": 32,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 866,
+      "away_team": 1607,
+      "home_score": {
+        "total": 120,
+        "over_time": null,
+        "quarter_1": 36,
+        "quarter_2": 35,
+        "quarter_3": 33,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 90,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 25,
+        "quarter_3": 29,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 58948,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.005Z",
+      "updated_at": "2023-03-15T14:25:25.005Z",
+      "date": "2018-12-21T02:00:00Z",
+      "time": "02:00",
+      "timestamp": "1545357600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 63,
+      "country": 28,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 825,
+      "away_team": 830,
+      "home_score": {
+        "total": 89,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 21,
+        "quarter_3": 23,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 103,
+        "over_time": null,
+        "quarter_1": 33,
+        "quarter_2": 19,
+        "quarter_3": 28,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 58949,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.009Z",
+      "updated_at": "2023-03-15T14:25:25.009Z",
+      "date": "2018-12-21T02:30:00Z",
+      "time": "02:30",
+      "timestamp": "1545359400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 63,
+      "country": 28,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 832,
+      "away_team": 827,
+      "home_score": {
+        "total": 100,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 24,
+        "quarter_3": 24,
+        "quarter_4": 34
+      },
+      "away_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 29,
+        "quarter_3": 18,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 58950,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.016Z",
+      "updated_at": "2023-03-15T14:25:25.016Z",
+      "date": "2018-12-21T02:30:00Z",
+      "time": "02:30",
+      "timestamp": "1545359400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 63,
+      "country": 28,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 826,
+      "away_team": 833,
+      "home_score": {
+        "total": 106,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 27,
+        "quarter_3": 32,
+        "quarter_4": 24
+      },
+      "away_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 19,
+        "quarter_3": 26,
+        "quarter_4": 22
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 58951,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.019Z",
+      "updated_at": "2023-03-15T14:25:25.019Z",
+      "date": "2018-12-21T02:30:00Z",
+      "time": "02:30",
+      "timestamp": "1545359400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 63,
+      "country": 28,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1610,
+      "away_team": 818,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 32,
+        "quarter_2": 13,
+        "quarter_3": 20,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 91,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 15,
+        "quarter_3": 25,
+        "quarter_4": 30
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 60024,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.273Z",
+      "updated_at": "2023-03-15T14:25:25.273Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 65,
+      "country": 30,
+      "status": {
+        "long": "After Over Time",
+        "short": "AOT",
+        "timer": null
+      },
+      "home_team": 844,
+      "away_team": 851,
+      "home_score": {
+        "total": 91,
+        "over_time": 15,
+        "quarter_1": 25,
+        "quarter_2": 12,
+        "quarter_3": 23,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 89,
+        "over_time": 13,
+        "quarter_1": 22,
+        "quarter_2": 16,
+        "quarter_3": 24,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 61446,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.209Z",
+      "updated_at": "2023-03-15T14:25:25.209Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "15",
+      "league": 71,
+      "country": 34,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 903,
+      "away_team": 890,
+      "home_score": {
+        "total": 74,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 17,
+        "quarter_3": 18,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 67,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 18,
+        "quarter_3": 15,
+        "quarter_4": 18
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 61447,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.225Z",
+      "updated_at": "2023-03-15T14:25:25.225Z",
+      "date": "2018-12-21T17:30:00Z",
+      "time": "17:30",
+      "timestamp": "1545413400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "15",
+      "league": 71,
+      "country": 34,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 892,
+      "away_team": 891,
+      "home_score": {
+        "total": 95,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 36,
+        "quarter_3": 26,
+        "quarter_4": 10
+      },
+      "away_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 11,
+        "quarter_3": 30,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 63134,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.213Z",
+      "updated_at": "2023-03-15T14:25:25.213Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 73,
+      "country": 34,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 924,
+      "away_team": 921,
+      "home_score": {
+        "total": 56,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 8,
+        "quarter_3": 10,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 21,
+        "quarter_3": 17,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 63669,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.320Z",
+      "updated_at": "2023-03-15T14:25:25.320Z",
+      "date": "2018-12-21T21:00:00Z",
+      "time": "21:00",
+      "timestamp": "1545426000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 74,
+      "country": 35,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 942,
+      "away_team": 944,
+      "home_score": {
+        "total": 103,
+        "over_time": null,
+        "quarter_1": 32,
+        "quarter_2": 13,
+        "quarter_3": 27,
+        "quarter_4": 31
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 12,
+        "quarter_3": 24,
+        "quarter_4": 22
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65099,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.149Z",
+      "updated_at": "2023-03-15T14:25:25.149Z",
+      "date": "2018-12-21T15:00:00Z",
+      "time": "15:00",
+      "timestamp": "1545404400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "15",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1647,
+      "away_team": 1650,
+      "home_score": {
+        "total": 57,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 18,
+        "quarter_3": 14,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 16,
+        "quarter_3": 28,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65100,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.159Z",
+      "updated_at": "2023-03-15T14:25:25.159Z",
+      "date": "2018-12-21T15:15:00Z",
+      "time": "15:15",
+      "timestamp": "1545405300",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 972,
+      "away_team": 970,
+      "home_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 16,
+        "quarter_3": 29,
+        "quarter_4": 20
+      },
+      "away_score": {
+        "total": 71,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 18,
+        "quarter_3": 14,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65101,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.184Z",
+      "updated_at": "2023-03-15T14:25:25.184Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1648,
+      "away_team": 968,
+      "home_score": {
+        "total": 112,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 30,
+        "quarter_3": 20,
+        "quarter_4": 35
+      },
+      "away_score": {
+        "total": 89,
+        "over_time": null,
+        "quarter_1": 26,
+        "quarter_2": 23,
+        "quarter_3": 15,
+        "quarter_4": 25
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65102,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.204Z",
+      "updated_at": "2023-03-15T14:25:25.204Z",
+      "date": "2018-12-21T16:30:00Z",
+      "time": "16:30",
+      "timestamp": "1545409800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1652,
+      "away_team": 979,
+      "home_score": {
+        "total": 58,
+        "over_time": null,
+        "quarter_1": 8,
+        "quarter_2": 12,
+        "quarter_3": 9,
+        "quarter_4": 29
+      },
+      "away_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 22,
+        "quarter_3": 18,
+        "quarter_4": 15
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65103,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.215Z",
+      "updated_at": "2023-03-15T14:25:25.215Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "9",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 969,
+      "away_team": 1649,
+      "home_score": {
+        "total": 120,
+        "over_time": null,
+        "quarter_1": 35,
+        "quarter_2": 35,
+        "quarter_3": 25,
+        "quarter_4": 25
+      },
+      "away_score": {
+        "total": 33,
+        "over_time": null,
+        "quarter_1": 4,
+        "quarter_2": 8,
+        "quarter_3": 10,
+        "quarter_4": 11
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 65104,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.217Z",
+      "updated_at": "2023-03-15T14:25:25.217Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 78,
+      "country": 38,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 975,
+      "away_team": 981,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 18,
+        "quarter_3": 19,
+        "quarter_4": 24
+      },
+      "away_score": {
+        "total": 69,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 18,
+        "quarter_3": 15,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 67690,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.133Z",
+      "updated_at": "2023-03-15T14:25:25.133Z",
+      "date": "2018-12-21T14:00:00Z",
+      "time": "14:00",
+      "timestamp": "1545400800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "3",
+      "league": 84,
+      "country": 40,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1043,
+      "away_team": 1664,
+      "home_score": {
+        "total": 90,
+        "over_time": null,
+        "quarter_1": null,
+        "quarter_2": null,
+        "quarter_3": null,
+        "quarter_4": null
+      },
+      "away_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": null,
+        "quarter_2": null,
+        "quarter_3": null,
+        "quarter_4": null
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 67691,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.135Z",
+      "updated_at": "2023-03-15T14:25:25.135Z",
+      "date": "2018-12-21T14:00:00Z",
+      "time": "14:00",
+      "timestamp": "1545400800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "3",
+      "league": 84,
+      "country": 40,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1050,
+      "away_team": 1046,
+      "home_score": {
+        "total": 70,
+        "over_time": null,
+        "quarter_1": null,
+        "quarter_2": null,
+        "quarter_3": null,
+        "quarter_4": null
+      },
+      "away_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": null,
+        "quarter_2": null,
+        "quarter_3": null,
+        "quarter_4": null
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 69232,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.219Z",
+      "updated_at": "2023-03-15T14:25:25.219Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 88,
+      "country": 42,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1083,
+      "away_team": 1679,
+      "home_score": {
+        "total": 57,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 17,
+        "quarter_3": 11,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 48,
+        "over_time": null,
+        "quarter_1": 9,
+        "quarter_2": 8,
+        "quarter_3": 16,
+        "quarter_4": 15
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 69576,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.246Z",
+      "updated_at": "2023-03-15T14:25:25.246Z",
+      "date": "2018-12-21T18:50:00Z",
+      "time": "18:50",
+      "timestamp": "1545418200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 90,
+      "country": 43,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1086,
+      "away_team": 1090,
+      "home_score": {
+        "total": 95,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 25,
+        "quarter_3": 21,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 56,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 13,
+        "quarter_3": 10,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 69928,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.276Z",
+      "updated_at": "2023-03-15T14:25:25.276Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "10",
+      "league": 89,
+      "country": 43,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1684,
+      "away_team": 1093,
+      "home_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 16,
+        "quarter_3": 22,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 22,
+        "quarter_3": 21,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 70543,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.085Z",
+      "updated_at": "2023-03-15T14:25:25.085Z",
+      "date": "2018-12-21T10:30:00Z",
+      "time": "10:30",
+      "timestamp": "1545388200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 91,
+      "country": 44,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1103,
+      "away_team": 1109,
+      "home_score": {
+        "total": 88,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 23,
+        "quarter_3": 25,
+        "quarter_4": 24
+      },
+      "away_score": {
+        "total": 98,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 26,
+        "quarter_3": 22,
+        "quarter_4": 23
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 70544,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.087Z",
+      "updated_at": "2023-03-15T14:25:25.087Z",
+      "date": "2018-12-21T10:30:00Z",
+      "time": "10:30",
+      "timestamp": "1545388200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 91,
+      "country": 44,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1102,
+      "away_team": 1108,
+      "home_score": {
+        "total": 78,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 27,
+        "quarter_3": 18,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 63,
+        "over_time": null,
+        "quarter_1": 15,
+        "quarter_2": 13,
+        "quarter_3": 15,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71340,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.077Z",
+      "updated_at": "2023-03-15T14:25:25.077Z",
+      "date": "2018-12-21T10:00:00Z",
+      "time": "10:00",
+      "timestamp": "1545386400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 92,
+      "country": 44,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1116,
+      "away_team": 1117,
+      "home_score": {
+        "total": 52,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 14,
+        "quarter_3": 10,
+        "quarter_4": 14
+      },
+      "away_score": {
+        "total": 78,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 24,
+        "quarter_3": 21,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71750,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.280Z",
+      "updated_at": "2023-03-15T14:25:25.280Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 95,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1134,
+      "away_team": 1696,
+      "home_score": {
+        "total": 67,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 11,
+        "quarter_3": 18,
+        "quarter_4": 26
+      },
+      "away_score": {
+        "total": 75,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 13,
+        "quarter_3": 14,
+        "quarter_4": 25
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71751,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.296Z",
+      "updated_at": "2023-03-15T14:25:25.296Z",
+      "date": "2018-12-21T19:30:00Z",
+      "time": "19:30",
+      "timestamp": "1545420600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 95,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1129,
+      "away_team": 1695,
+      "home_score": {
+        "total": 63,
+        "over_time": null,
+        "quarter_1": 25,
+        "quarter_2": 11,
+        "quarter_3": 9,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 17,
+        "quarter_3": 17,
+        "quarter_4": 25
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71752,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.300Z",
+      "updated_at": "2023-03-15T14:25:25.300Z",
+      "date": "2018-12-21T19:45:00Z",
+      "time": "19:45",
+      "timestamp": "1545421500",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 95,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1122,
+      "away_team": 1127,
+      "home_score": {
+        "total": 59,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 21,
+        "quarter_3": 11,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 72,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 16,
+        "quarter_3": 23,
+        "quarter_4": 11
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71753,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.312Z",
+      "updated_at": "2023-03-15T14:25:25.312Z",
+      "date": "2018-12-21T20:00:00Z",
+      "time": "20:00",
+      "timestamp": "1545422400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 95,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1132,
+      "away_team": 1694,
+      "home_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 16,
+        "quarter_3": 26,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 22,
+        "quarter_3": 21,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 71754,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.315Z",
+      "updated_at": "2023-03-15T14:25:25.315Z",
+      "date": "2018-12-21T20:00:00Z",
+      "time": "20:00",
+      "timestamp": "1545422400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 95,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1123,
+      "away_team": 1126,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 24,
+        "quarter_3": 14,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 89,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 12,
+        "quarter_3": 23,
+        "quarter_4": 36
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 73644,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.238Z",
+      "updated_at": "2023-03-15T14:25:25.238Z",
+      "date": "2018-12-21T18:00:00Z",
+      "time": "18:00",
+      "timestamp": "1545415200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 94,
+      "country": 45,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1713,
+      "away_team": 1172,
+      "home_score": {
+        "total": 59,
+        "over_time": null,
+        "quarter_1": 12,
+        "quarter_2": 20,
+        "quarter_3": 10,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 25,
+        "quarter_2": 16,
+        "quarter_3": 21,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 77609,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.139Z",
+      "updated_at": "2023-03-15T14:25:25.139Z",
+      "date": "2018-12-21T14:00:00Z",
+      "time": "14:00",
+      "timestamp": "1545400800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "7",
+      "league": 103,
+      "country": 48,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1279,
+      "away_team": 1299,
+      "home_score": {
+        "total": 75,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 21,
+        "quarter_3": 18,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": 11,
+        "quarter_2": 19,
+        "quarter_3": 18,
+        "quarter_4": 18
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 77610,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.151Z",
+      "updated_at": "2023-03-15T14:25:25.151Z",
+      "date": "2018-12-21T15:00:00Z",
+      "time": "15:00",
+      "timestamp": "1545404400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "9",
+      "league": 103,
+      "country": 48,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1305,
+      "away_team": 1747,
+      "home_score": {
+        "total": 102,
+        "over_time": null,
+        "quarter_1": 28,
+        "quarter_2": 23,
+        "quarter_3": 30,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 63,
+        "over_time": null,
+        "quarter_1": 10,
+        "quarter_2": 26,
+        "quarter_3": 21,
+        "quarter_4": 6
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 77611,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.153Z",
+      "updated_at": "2023-03-15T14:25:25.153Z",
+      "date": "2018-12-21T15:00:00Z",
+      "time": "15:00",
+      "timestamp": "1545404400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "9",
+      "league": 103,
+      "country": 48,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1289,
+      "away_team": 1292,
+      "home_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 13,
+        "quarter_2": 18,
+        "quarter_3": 13,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 77,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 25,
+        "quarter_3": 19,
+        "quarter_4": 16
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 78093,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.090Z",
+      "updated_at": "2023-03-15T14:25:25.090Z",
+      "date": "2018-12-21T11:00:00Z",
+      "time": "11:00",
+      "timestamp": "1545390000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 102,
+      "country": 48,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1275,
+      "away_team": 1273,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 30,
+        "quarter_3": 16,
+        "quarter_4": 15
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 26,
+        "quarter_2": 16,
+        "quarter_3": 20,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 78094,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.165Z",
+      "updated_at": "2023-03-15T14:25:25.165Z",
+      "date": "2018-12-21T15:30:00Z",
+      "time": "15:30",
+      "timestamp": "1545406200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "11",
+      "league": 102,
+      "country": 48,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1308,
+      "away_team": 1751,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 21,
+        "quarter_3": 19,
+        "quarter_4": 23
+      },
+      "away_score": {
+        "total": 98,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 27,
+        "quarter_3": 32,
+        "quarter_4": 18
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 78654,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.228Z",
+      "updated_at": "2023-03-15T14:25:25.228Z",
+      "date": "2018-12-21T17:45:00Z",
+      "time": "17:45",
+      "timestamp": "1545414300",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 106,
+      "country": 49,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1310,
+      "away_team": 1315,
+      "home_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 20,
+        "quarter_3": 21,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 84,
+        "over_time": null,
+        "quarter_1": 24,
+        "quarter_2": 17,
+        "quarter_3": 25,
+        "quarter_4": 18
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 79106,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.156Z",
+      "updated_at": "2023-03-15T14:25:25.156Z",
+      "date": "2018-12-21T15:00:00Z",
+      "time": "15:00",
+      "timestamp": "1545404400",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 107,
+      "country": 49,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1777,
+      "away_team": 1318,
+      "home_score": {
+        "total": 60,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 5,
+        "quarter_3": 20,
+        "quarter_4": 19
+      },
+      "away_score": {
+        "total": 69,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 20,
+        "quarter_3": 12,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 79107,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.186Z",
+      "updated_at": "2023-03-15T14:25:25.186Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 107,
+      "country": 49,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1322,
+      "away_team": 1319,
+      "home_score": {
+        "total": 43,
+        "over_time": null,
+        "quarter_1": 8,
+        "quarter_2": 8,
+        "quarter_3": 15,
+        "quarter_4": 12
+      },
+      "away_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 16,
+        "quarter_3": 19,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 115853,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.142Z",
+      "updated_at": "2023-03-15T14:25:25.142Z",
+      "date": "2018-12-21T14:00:00Z",
+      "time": "14:00",
+      "timestamp": "1545400800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "Russian Cup - Quarter-finals",
+      "league": 159,
+      "country": 39,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1021,
+      "away_team": 1011,
+      "home_score": {
+        "total": 72,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 17,
+        "quarter_3": 19,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 22,
+        "quarter_3": 17,
+        "quarter_4": 22
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 116949,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.298Z",
+      "updated_at": "2023-03-15T14:25:25.298Z",
+      "date": "2018-12-21T19:30:00Z",
+      "time": "19:30",
+      "timestamp": "1545420600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 173,
+      "country": 50,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1326,
+      "away_team": 1335,
+      "home_score": {
+        "total": 81,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 11,
+        "quarter_3": 22,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 72,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 15,
+        "quarter_3": 22,
+        "quarter_4": 13
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 124130,
+    "fields": {
+      "created_at": "2023-03-15T14:25:24.978Z",
+      "updated_at": "2023-03-15T14:25:24.978Z",
+      "date": "2018-12-21T00:15:00Z",
+      "time": "00:15",
+      "timestamp": "1545351300",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 110,
+      "country": 63,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 2994,
+      "away_team": 2997,
+      "home_score": {
+        "total": 83,
+        "over_time": null,
+        "quarter_1": 31,
+        "quarter_2": 16,
+        "quarter_3": 23,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 92,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 27,
+        "quarter_3": 19,
+        "quarter_4": 24
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 124131,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.333Z",
+      "updated_at": "2023-03-15T14:25:25.333Z",
+      "date": "2018-12-21T23:30:00Z",
+      "time": "23:30",
+      "timestamp": "1545435000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 110,
+      "country": 63,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 2990,
+      "away_team": 3000,
+      "home_score": {
+        "total": 71,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 15,
+        "quarter_3": 19,
+        "quarter_4": 17
+      },
+      "away_score": {
+        "total": 74,
+        "over_time": null,
+        "quarter_1": 17,
+        "quarter_2": 18,
+        "quarter_3": 20,
+        "quarter_4": 19
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 124132,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.335Z",
+      "updated_at": "2023-03-15T14:25:25.335Z",
+      "date": "2018-12-21T23:30:00Z",
+      "time": "23:30",
+      "timestamp": "1545435000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 110,
+      "country": 63,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 2995,
+      "away_team": 281,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 21,
+        "quarter_3": 23,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 55,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 16,
+        "quarter_3": 15,
+        "quarter_4": 10
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 124133,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.337Z",
+      "updated_at": "2023-03-15T14:25:25.337Z",
+      "date": "2018-12-21T23:30:00Z",
+      "time": "23:30",
+      "timestamp": "1545435000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 110,
+      "country": 63,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 2999,
+      "away_team": 3001,
+      "home_score": {
+        "total": 87,
+        "over_time": null,
+        "quarter_1": 20,
+        "quarter_2": 18,
+        "quarter_3": 20,
+        "quarter_4": 29
+      },
+      "away_score": {
+        "total": 76,
+        "over_time": null,
+        "quarter_1": 13,
+        "quarter_2": 20,
+        "quarter_3": 23,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 182137,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.168Z",
+      "updated_at": "2023-03-15T14:25:25.168Z",
+      "date": "2018-12-21T15:30:00Z",
+      "time": "15:30",
+      "timestamp": "1545406200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 364,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 4874,
+      "away_team": 4732,
+      "home_score": {
+        "total": 71,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 19,
+        "quarter_3": 17,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 59,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 17,
+        "quarter_3": 14,
+        "quarter_4": 14
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 182138,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.188Z",
+      "updated_at": "2023-03-15T14:25:25.188Z",
+      "date": "2018-12-21T16:00:00Z",
+      "time": "16:00",
+      "timestamp": "1545408000",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "",
+      "league": 364,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 797,
+      "away_team": 4860,
+      "home_score": {
+        "total": 66,
+        "over_time": null,
+        "quarter_1": 19,
+        "quarter_2": 13,
+        "quarter_3": 12,
+        "quarter_4": 22
+      },
+      "away_score": {
+        "total": 69,
+        "over_time": null,
+        "quarter_1": 14,
+        "quarter_2": 20,
+        "quarter_3": 14,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 217748,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.283Z",
+      "updated_at": "2023-03-15T14:25:25.283Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "12",
+      "league": 198,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 420,
+      "away_team": 1066,
+      "home_score": {
+        "total": 79,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 21,
+        "quarter_3": 22,
+        "quarter_4": 18
+      },
+      "away_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 22,
+        "quarter_2": 22,
+        "quarter_3": 20,
+        "quarter_4": 21
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 228947,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.223Z",
+      "updated_at": "2023-03-15T14:25:25.223Z",
+      "date": "2018-12-21T17:00:00Z",
+      "time": "17:00",
+      "timestamp": "1545411600",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 120,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 1024,
+      "away_team": 1269,
+      "home_score": {
+        "total": 85,
+        "over_time": null,
+        "quarter_1": 30,
+        "quarter_2": 15,
+        "quarter_3": 24,
+        "quarter_4": 16
+      },
+      "away_score": {
+        "total": 84,
+        "over_time": null,
+        "quarter_1": 18,
+        "quarter_2": 25,
+        "quarter_3": 14,
+        "quarter_4": 27
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 228948,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.240Z",
+      "updated_at": "2023-03-15T14:25:25.240Z",
+      "date": "2018-12-21T18:00:00Z",
+      "time": "18:00",
+      "timestamp": "1545415200",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 120,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 796,
+      "away_team": 687,
+      "home_score": {
+        "total": 80,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 23,
+        "quarter_3": 20,
+        "quarter_4": 21
+      },
+      "away_score": {
+        "total": 73,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 17,
+        "quarter_3": 20,
+        "quarter_4": 20
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 228949,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.285Z",
+      "updated_at": "2023-03-15T14:25:25.285Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 120,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 614,
+      "away_team": 722,
+      "home_score": {
+        "total": 83,
+        "over_time": null,
+        "quarter_1": 23,
+        "quarter_2": 17,
+        "quarter_3": 16,
+        "quarter_4": 27
+      },
+      "away_score": {
+        "total": 86,
+        "over_time": null,
+        "quarter_1": 21,
+        "quarter_2": 26,
+        "quarter_3": 17,
+        "quarter_4": 22
+      },
+      "user": null
+    }
+  },
+  {
+    "model": "basket.game",
+    "pk": 228950,
+    "fields": {
+      "created_at": "2023-03-15T14:25:25.287Z",
+      "updated_at": "2023-03-15T14:26:09.384Z",
+      "date": "2018-12-21T19:00:00Z",
+      "time": "19:00",
+      "timestamp": "1545418800",
+      "timezone": "UTC",
+      "stage": "",
+      "week": "14",
+      "league": 120,
+      "country": 55,
+      "status": {
+        "long": "Game Finished",
+        "short": "FT",
+        "timer": null
+      },
+      "home_team": 522,
+      "away_team": 2338,
+      "home_score": {
+        "total": 72,
+        "over_time": null,
+        "quarter_1": 16,
+        "quarter_2": 15,
+        "quarter_3": 28,
+        "quarter_4": 13
+      },
+      "away_score": {
+        "total": 82,
+        "over_time": null,
+        "quarter_1": 27,
+        "quarter_2": 19,
+        "quarter_3": 19,
+        "quarter_4": 17
+      },
+      "user": null
+    }
+  }
+]
