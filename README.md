@@ -2,7 +2,11 @@
 
 ## Spinning up the app
 
-In order to spin up the API, just run:
+Create a `.env` file based on the example:
+
+    cp .env.example .env
+
+Add your RapidAPI key and your preferred values for PostgreSLQ and then just run:
 
     docker compose up -d
 
@@ -21,10 +25,15 @@ In order to use the API, you just have to create a Token for your user and then 
 
 As an admin user, you can perform the following actions in the Django admin interface:
 
-- Assign games to normal users (game change page)
-- Unassign games from normal users (game change page)
-- Edit/remove games (game change page)
-- Add/remove countries from a normal user’s permissions (user change page)
+1. Assign games to normal users (game change page)
+1. Unassign games from normal users (game change page)
+1. Edit/remove games (game change page)
+1. Add/remove countries from a normal user’s permissions (user change page)
+
+You can also use Django admin to create "normal" users (users where `is_staff == False`).
+
+> **Note**
+> The first 3 actions are also possible via API because Django REST Framework provides them out-of-the-box via the ModelViewSet, but these endpoints haven't been properly tested due to time constraints.
 
 ## Endpoint actions
 
@@ -34,7 +43,7 @@ As an admin user, you should be able to see all games in this endpoint. If you d
 
 As a normal user, you should be able to see all games that are associated to a country that is assigned to you and that are not assigned to any other user.
 
-### GET /games/<pk>/
+### GET /games/\<pk\>/
 
 As an admin user, you should be able to see the details of any game.
 
@@ -48,6 +57,12 @@ This endpoint returns all games that are assigned to you. Only games that are as
 
 This endpoint returns all games that associated to one of your countries but not assigned to anybody.
 
-### PATCH /games/<pk>/assign/
+### PATCH /games/\<pk\>/assign/
 
 This endpoint assigns a specific game to your user, if it is assignable (associated to one of your countries and not assigned to anybody else).
+
+## Tests
+
+You can run the test suite like this:
+
+    docker compose run web python manage.py test
